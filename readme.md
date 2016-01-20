@@ -1,4 +1,4 @@
-# Rate variation in virus
+# Rate variation in viruses
 
 1. Get beast highest clade credibility tree from beast.
 

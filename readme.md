@@ -2,7 +2,7 @@
 
 1. Get beast highest clade credibility tree from beast.
 
-2. Reroot all ML trees such that the slope is positive and has a low R<sup>2</sup> Check the regressions, if they look terrible, we might need to remove some taxa and re do them. We should plot all of these.
+2. Reroot all ML trees such that the slope is positive and has a low R<sup>2</sup> Check the regressions. If they look terrible, we might need to remove some taxa and re do them. We should plot all of these.
 
 3. Check date-randomisations. I have some R code from my bacteria project to plot these, which we can reuse. The first step, however, is to have a quick look in tracer.
 
@@ -24,14 +24,14 @@
 
 12.00 Lunch and paper outline.
 
-13.00 Start writting.
+13.00 Start writing.
 
 16.00 Swim 2 Km's at Ian Thorpe pool.
 
-17.30 keep writting... Indefinitely.
+17.30 keep writing... Indefinitely.
 
-18.30 Diner at Badde Mannors in Glebe.
+18.30 Diner at Badde Mannors in Glebe. Purchase celebratory drink in Broadway.
 
-20.00 Back to indefinite writting... Rum...
+20.00 Back to indefinite writing...
 
-Note: writting includes cover lettter
+Note: writing includes cover letter

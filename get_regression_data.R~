@@ -1,0 +1,3 @@
+library(NELSI)
+
+rooted_trees <- dir(pattern = '^rooted._+')

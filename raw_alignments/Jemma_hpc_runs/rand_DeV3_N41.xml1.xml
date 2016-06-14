@@ -1,0 +1,825 @@
+<?xml version="1.0" standalone="yes"?>
+<beast>
+  <taxa id="taxa">
+
+    <taxon id="JX070121_2010">
+    <date value="2004" direction="forwards" units="years"/>
+    </taxon>
+    
+    <taxon id="FJ389908_2002">
+    <date value="1988" direction="forwards" units="years"/>
+    </taxon>
+    
+    <taxon id="AB600935_1988">
+    <date value="2010" direction="forwards" units="years"/>
+    </taxon>
+    
+    <taxon id="FJ389915_2006">
+    <date value="1988" direction="forwards" units="years"/>
+    </taxon>
+    
+    <taxon id="FJ389916_2005">
+    <date value="1988" direction="forwards" units="years"/>
+    </taxon>
+    
+    <taxon id="JX070123_2010">
+    <date value="2011" direction="forwards" units="years"/>
+    </taxon>
+    
+    <taxon id="JX070131_2011">
+    <date value="1988" direction="forwards" units="years"/>
+    </taxon>
+    
+    <taxon id="AB600934_1988">
+    <date value="2011" direction="forwards" units="years"/>
+    </taxon>
+    
+    <taxon id="JX070125_2010">
+    <date value="2010" direction="forwards" units="years"/>
+    </taxon>
+    
+    <taxon id="JX070128_2011">
+    <date value="2007" direction="forwards" units="years"/>
+    </taxon>
+    
+    <taxon id="AB600931_1988">
+    <date value="1988" direction="forwards" units="years"/>
+    </taxon>
+    
+    <taxon id="AB600936_1988">
+    <date value="2003" direction="forwards" units="years"/>
+    </taxon>
+    
+    <taxon id="FJ389914_2007">
+    <date value="2005" direction="forwards" units="years"/>
+    </taxon>
+    
+    <taxon id="JX070127_2010">
+    <date value="1988" direction="forwards" units="years"/>
+    </taxon>
+    
+    <taxon id="EU259605_2003">
+    <date value="2010" direction="forwards" units="years"/>
+    </taxon>
+    
+    <taxon id="EU570161_2003">
+    <date value="1988" direction="forwards" units="years"/>
+    </taxon>
+    
+    <taxon id="JX070129_2011">
+    <date value="2010" direction="forwards" units="years"/>
+    </taxon>
+    
+    <taxon id="AB600925_1988">
+    <date value="2003" direction="forwards" units="years"/>
+    </taxon>
+    
+    <taxon id="AB600928_1988">
+    <date value="2011" direction="forwards" units="years"/>
+    </taxon>
+    
+    <taxon id="AB600932_1988">
+    <date value="2002" direction="forwards" units="years"/>
+    </taxon>
+    
+    <taxon id="EU259608_2002">
+    <date value="1988" direction="forwards" units="years"/>
+    </taxon>
+    
+    <taxon id="AB600937_1988">
+    <date value="2007" direction="forwards" units="years"/>
+    </taxon>
+    
+    <taxon id="AB600929_1988">
+    <date value="2002" direction="forwards" units="years"/>
+    </taxon>
+    
+    <taxon id="FJ375135_2005">
+    <date value="1988" direction="forwards" units="years"/>
+    </taxon>
+    
+    <taxon id="AB600926_1988">
+    <date value="2010" direction="forwards" units="years"/>
+    </taxon>
+    
+    <taxon id="FJ389906_2007">
+    <date value="2010" direction="forwards" units="years"/>
+    </taxon>
+    
+    <taxon id="EU259606_2002">
+    <date value="1988" direction="forwards" units="years"/>
+    </taxon>
+    
+    <taxon id="AB600927_1988">
+    <date value="2006" direction="forwards" units="years"/>
+    </taxon>
+    
+    <taxon id="JX070132_2011">
+    <date value="2002" direction="forwards" units="years"/>
+    </taxon>
+    
+    <taxon id="EU570160_2003">
+    <date value="2003" direction="forwards" units="years"/>
+    </taxon>
+    
+    <taxon id="AB600930_1988">
+    <date value="2010" direction="forwards" units="years"/>
+    </taxon>
+    
+    <taxon id="JX070130_2011">
+    <date value="2011" direction="forwards" units="years"/>
+    </taxon>
+    
+    <taxon id="FJ389907_2003">
+    <date value="1988" direction="forwards" units="years"/>
+    </taxon>
+    
+    <taxon id="FJ389912_2004">
+    <date value="2009" direction="forwards" units="years"/>
+    </taxon>
+    
+    <taxon id="JX070124_2010">
+    <date value="2000" direction="forwards" units="years"/>
+    </taxon>
+    
+    <taxon id="FJ389910_2004">
+    <date value="2003" direction="forwards" units="years"/>
+    </taxon>
+    
+    <taxon id="AB600933_1988">
+    <date value="1988" direction="forwards" units="years"/>
+    </taxon>
+    
+    <taxon id="EU259607_2002">
+    <date value="2002" direction="forwards" units="years"/>
+    </taxon>
+    
+    <taxon id="EF440434_2000">
+    <date value="2004" direction="forwards" units="years"/>
+    </taxon>
+    
+    <taxon id="JX070134_2011">
+    <date value="2011" direction="forwards" units="years"/>
+    </taxon>
+    
+    <taxon id="JX070122_2010">
+    <date value="2005" direction="forwards" units="years"/>
+    </taxon>
+    
+    <taxon id="AB600938_1988">
+    <date value="2011" direction="forwards" units="years"/>
+    </taxon>
+    
+    <taxon id="FJ389913_2006">
+    <date value="1988" direction="forwards" units="years"/>
+    </taxon>
+    
+    <taxon id="FJ389909_2002">
+    <date value="2011" direction="forwards" units="years"/>
+    </taxon>
+    
+    <taxon id="JX070120_2010">
+    <date value="2004" direction="forwards" units="years"/>
+    </taxon>
+    
+    <taxon id="FJ375134_2004">
+    <date value="2002" direction="forwards" units="years"/>
+    </taxon>
+    
+    <taxon id="JX070126_2010">
+    <date value="1988" direction="forwards" units="years"/>
+    </taxon>
+    
+    <taxon id="FJ389911_2003">
+    <date value="2003" direction="forwards" units="years"/>
+    </taxon>
+    
+    <taxon id="GQ330473_2009">
+    <date value="2006" direction="forwards" units="years"/>
+    </taxon>
+    
+    <taxon id="JX070133_2011">
+    <date value="2010" direction="forwards" units="years"/>
+    </taxon>
+    
+</taxa>
+
+<alignment id="alignment" dataType="nucleotide">
+
+    <sequence>
+    <taxon idref="JX070121_2010"/>
+    -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------tggccagatggggaaccttcaagaagtcgggggccattaaggtcctgaaaggcttcaagaaggagatttcaaacatgttgagcataatcaacaaacggaaaaagacatcgctctgtctcatgatgatattgccagcagcacttgctttccacttgacttcacgagatggagagccgcgcatgattgtggggaagaatgaaagaggaaagtccctactttttaagacagcctctggaatcaacatgtgcacactcatagccatggacttgggagagatgtgtgatgacacggtcacttacaaatgcccccacattaccgaagtggaacctgaagacattgactgctggtgcaaccttacatcaacatgggtgacttatggaacgtgtaatcaagctggagagcatagacgcgacaagagatcagtggcgttagctccccatgtcggcatgggactggacacacgcacccaaacctggatgtcggctgaaggagcttggagacaagtcgagaaggtagagacatgggcccttaggcacccagggttcaccatactagccctatttcttgcccattacataggcacttccttgacccagaaggtggttatttttatactactaatgctggtcaccccatccatgacaatgagatgtgtgggagtgggaaacagagattttgtggaaggtctgtcaggagctacgtgggttgacgtggtgctagagcacggggggtgtgtgaccaccatggctaagaacaagcccacgctggatatagagcttcagaagaccgaggccacccaactggcgaccctaaggaagctatgcattgaggggaaaattaccaacataacgactgactcaagatgtcccacccaaggggaagcggttttgcctgaggagcaggaccagaactacgtgtgtaagcatacatacgtagacagaggctgggggaacggttgtggtttgtttggcaagggaagcttggtaacatgtgcgaaatttcaatgcctggaaccgatagagggaaaagtggtgcaatatgagaacctcaaatacaccgtcatcattacagtgcacacaggagaccaacaccaggtgggaaatgaaacgcagggagtcacggctgagataacgcctcaggcatcaaccactgaagccatcttgcctgaatatggaacccttgggctagaatgctcaccacggacaggtttggacttcaatgaaatgatcttactaacaatgaagaacaaagcatggatggtacatagacaatggttctttgacctacctctaccatggacatcaggagctacaacagaaacaccaacttggaacaggaaggagctccttgtgacattcaaaaatgcacatgcgaaaaaacaagaagtagttgtccttggatcgcaagagggagcaatgcataccgcactgacaggagccacagaaatccaaaactcaggaggcacaagcatttttgcggggcacttaaagtgtagacttaagatggacaaattggaactcaaggggatgagctatgcaatgtgcacgaatacctttgtgttgaagaaagaagtctcagaaacgcagcatgggacaatactcattaaggttgagtacaaaggggaagatgcaccttgcaagattcctttctccacagaggatggacaggggaaagctcacaatggcagactgatcacagccaacccagtggtgactaagaaggaggagcctgttaacattg---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+    </sequence>
+    
+    <sequence>
+    <taxon idref="FJ389908_2002"/>
+    ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------tcagtggcgttagctccccatgtcggcatgggactggacacacgcacccaaacctggatgtcggctgaaggagcttggaggcaagtcgagaaggtagagacatgggcccttaggcacccagggttcaccatactagccctatttcttgcccattacataggcacttccttgacccagaaggtggttatttttatactactaatgctggtcaccccatccatgacaatgagatgtgtgggagtaggaaacagagattttgtggaaggtctatcaggagctacgtgggttgacgtggtgctcgagcacggggggtgtgtgaccaccatggctaagaacaagcccacgttggatatagagcttcagaagaccgaggccacccaactggcgaccctaaggaagctatgcattgaggggaaaatcaccaacataacaactgactcaagatgtcctacccaaggggaagcggttttgcctgaggagcaggaccagaactacgtgtgtaagcatacatacgtagacagaggctgggggaacggatgtggtttgtttggcaagggaagcttggtaacatgtgcgaaatttcaatgcctggaaccaatagagggaaaagtggtgcaatatgagaacctcaaatacaccgtcatcatcacagtgcacacaggagaccaacaccaggtgggaaatgaaacgcagggagtcacggctgagataacacctcaggcatcaactactgaagccatcttgcctgaatatggaacccttgggctagaatgctcaccacggacaggtttggacttcaatgaaatgatcttgctaacaatgaagaacaaagcatggatggtacatagacaatggttttttgacctacctctaccatggacatcaggagctacaacggaaacaccaacctggaacaggaaggagcttcttgtgacatttaaaaacgcacatgcgaaaaaacaagaagtagttgtccttggatcgcaagagggagcaatgcataccgcattgacaggagccacagaaatccaaaactcaggaggcacaagcatttttgcggggcacttaaaatgtagacttaagatggacaaattagaactcaaggggatgagctatgcaatgtgcacgaatacctttgtgttgaagaaagaagtctcagaaacgcagcatgggacaatactcatcaaggtcgagtacaaaggggaagatgtaccttgcaagattcctttctccacagaggatggacaagggaaagctcacaatggcagactgattacagccaacccagtggtgactaagaaggaggagcctgtcaatattgaggctgaacctccttttggggaaagtaatatagtaattggaattggagacaacgccttgaaaatcaactggtacaagaagggaagctctattgggaagatgttcgaggccactgctagaggtgcaaggcgcatggccatcttgggagacacagcttgggactttggatcagtgggtggtgttctgaactcattaggcaaaatggtgcaccaaatattcggaagtgcttacacagccctattcagtggagtctcttgggtaatgaaaattggaataggagttctcttgacttggatagggttgaattcaaaaaacacatccatgtcattttcatgcattgcgataggaatcattacactctatctgggagctgtggtgcaagct----------------------------------
+
+    </sequence>
+    
+    <sequence>
+    <taxon idref="AB600935_1988"/>
+    -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ttccacttgacttcacgagatggagagccgcgcatgattgtggggaagaatgaaagaggaaaatccctactttttaagacagcctctggaatcaacatgtgcacactcatagccatggatttgggagagatgtgtgatgacacggtcacttacaaatgccccctcattactgaagtggagcctgaagacattgactgctggtgcaacctcacatcgacatgggtgacctacggaacgtgcaaccaagctggagagcacagacgcgataagagatcggtggcgttagctccccatgtcggcatgggactggacacacgcacccaaacctggatgtcggctgaaggagcttggagacaagtcgagaaggtagagacatgggcctttaggcacccagggttcacagtactagccctatttcttgcccattacataggcacttccttgacccagaaagtggtcattttcatactactaatgctggtcaccccatccatgacaatgagatgtgtgggagtaggaaacagagattttgtggaaggcctatcaggagctacgtgggttgacgtggtgcttgaacacggtgggtgtgtgactaccatggctaagaacaagcccacgctggatatagagctccagaagaccgaggccacccaactggcgaccctaaggaaactatgcattgagggaaaaattaccaacgtaacaaccgactcaaggtgccccacccaaggagaagcgattttacctgaggagcaggaccagaactacgtgtgtaagcacacatacgtggacagaggctggggaaacggttgtggtttgtttggcaagggaagcttggtaacatgcgcgaaatttcaatgtttggaatcaatagagggaaaagtggtgcagcatgagaacctcaaatacaccgtcatcatcacagtgcacacaggagaccaacaccaggtgggaaatgaaacgcagggagtcacggctgagataacaccccaggcatcaaccgtcgaagccatcttacctgaatatggaacccttgggctagaatgctcaccacggacaggtttggattttaatgaaatgattttgttgacaatgaagaacaaagcatggatggtacatagacaatggttttttgacctacctctaccatggacatcaggggctacaacagaaacaccaacctggaataagaaagagcttcttgtgacattcaaaaacgcacacgcaaaaaaacaagaagtagtagtccttggatcgcaagagggagcaatgcacacagcactgacaggagctacagagatccaaacctcaggaggcacaagtatttttgcggggcacttaaaatgcagactcaagatggacaaattggaactcaaggggatgagctatgcaatgtgtttaaatgcctttgtgttgaagaaagaagtctccgaaacacaacatgggacaatactcattaaagttgagtacaaaggggaagatgcaccttgcaagattcctttctccacggaggatggacaagggaaagcccacaatggcagactgatcacagccaacccagtggtgaccaagaaggaggagcctgtcaatattgaggcagaacctccttttggggaaagtaatatagtaattggaattggagacaaagccttgaaaatcaactggtacaagaagggaagctcgattgggaagatgttcgaggccactgccagaggtgcaaggcgcatggccatcttgggagacacagcctgggactttggatcagtaggtggtgttttaaattcattagggaaaatggtgcaccaaatatttggaagtgcttacacggccctatttagtggagtctcctggataatgaaaattggaataggtgtccttttaacctggatagggttgaattcaaaaaacacttctatgtcattttcatgcattgtgataggaatcatcacactctatctgggagccgtggtgcaagct----------------------------------
+
+    </sequence>
+    
+    <sequence>
+    <taxon idref="FJ389915_2006"/>
+    ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------tcagtggcgttagctccccatgtcggcatgggactagacacacgtacccaaacctggatgtcggctgaaggagcttggaggcaagtcgagaaggtagagacatgggcccttaggcacccagggttcactatactagccctatttcttgcccattacataggcacatccttgacccagaaggtggttatttttatactattaatgctggtcaccccatccatgacaatgagatgtgtgggagtaggaaacagagattttgtggaaggtctatcaggagctacgtgggttgacgtggtgctcgagcacggggggtgtgtgactaccatggctaagaacaagccaacgttggatatagagcttcagaagaccgaggccacccaattggcgaccctaaggaagctatgcattgaggggaagattaccaacataacaactgactcaagatgtcctacccaaggggaagcggctttgcctgaggagcaggaccagaactacgtgtgtaagcatacatacgtagacagaggctgggggaacggatgtggtttgtttggcaagggaagcttggtaacatgtgcgaaatttcaatgcctggaaccaatagagggaaaagtggtgcaatatgagaacctcaaatacaccgtcatcatcacagtgcacacaggagatcaacaccaggtgggaaatgaaacgcagggagtcacggctgaaataacacctcaggcatcaaccactgaagccatcttgcctgaatatggaacccttgggctagaatgctcaccacggacaggtttggatttcaatgaaatgatcttgctaacaatgaagaacaaagcatggatggtacatagacaatggttttttgacctacctctaccatggacatcaggagctacaacggaaacaccaacctggaacaggaaggagcttcttgtgacattcaaaaacgcacatgcgaagaaacaagaagtagttgtccttggatcgcaagagggagcaatgcataccgcattgacaggagccacagaaatccaaaactcaggaggcacaagtatttttgcggggcacttaaaatgcagacttaagatggacaaattggaactcaaggggatgagctatgcaatgtgcacgaatacctttgtgttgaagaaagaagtctcagaaacgcagcatgggacaatactcattaaggtcgagtacaaaggggaagatgtaccttgcaagattcctttctccacagaggatggacaagggaaagctcacaatggcagactgattacagccaacccagtggtgactaagaaggaggagcctgtcaatattgaggctgaacctccttttggggaaagcaatatagtgattggaattggagacaacgccttgaaaatcaactggtataagaagggaagctctattgggaagatgttcgaggccactgccagaggtgcaaggcgcatggccatcttgggagacacagcttgggactttggatcagtgggtggtgttctgaactcattaggcaaaatggtgcaccaaatattcggaagtgcttacacagccctattcagtggagtctcttgggtaatgaaaattggaataggagttctcttgacttggatagggttgaattcaaaaaacacatccatgtcattttcgtgcattgcgataggaatcattacactctatctgggagctgtggtgcaagct----------------------------------
+
+    </sequence>
+    
+    <sequence>
+    <taxon idref="FJ389916_2005"/>
+    ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------tcagtggcgttagctccccatgtcggcatgggactagacacacgcacccaaacctggatgtcggctgaaggagcttggaggcaagtcgagaaggtagagacatgggcccttaggcacccagggttcactatactagccctatttcttgcccattacataggcacatccttgacccagaaggtggttatttttatactattaatgctggtcaccccatccatgacaatgagatgtgtgggagtaggaaacagagattttgtggaaggtctatcaggagctacgtgggttgacgtggtgctcgagcacggggggtgtgtgactaccatggctaagaacaagccaacgttggatatagagcttcagaagaccgaggccacccaattggcgaccctaaggaaactatgcattgaggggaaaattaccaacataacaactgactcaagatgtcctacccaaggggaagcggctttgcctgaggagcaggaccagaactacgtgtgtaagcatacatacgtagacagaggctgggggaacggatgtggtttgtttggcaagggaagcttggtaacatgtgcgaaatttcaatgcctggaaccaatagagggaaaagtggtgcaatatgagaacctcaaatacaccgtcatcatcacagtgcacacaggagatcaacaccaggtgggaaatgaaacgcagggagtcacggctgaaataacacctcaggcatcaaccactgaagccatcttgcctgaatatggaacccttgggctagaatgctcaccacggacaggtttggatttcaatgaaatgatcttgctaacaatgaagaacaaagcatggatggtacatagacaatggttttttgacctacctctaccatggacatcaggagctacaacggaaacaccaacctggaacaggaaggagcttcttgtgacattcaaaaacgcacatgcgaagaaacaagaagtagttgtccttggatcgcaagagggagcaatgcataccgcattgacaggagccacagaaatccaaaactcaggaggcacaagtatttttgcggggcacttaaaatgcagacttaagatggacaaattggaactcaaggggatgagctatgcaatgtgcacgaatacctttgtgttgaagaaagaagtctcagaaacgcagcatgggacaatactcattaaggtcgagtacaaaggggaagatgtaccttgcaagattcctttctccacagaggatggacaagggaaagctcacaatggcagactgattacagccaacccagtggtgactaagaaggaggagcctgtcaatattgaggctgaacctccttttggggaaagcaatatagtgattggaattggagacaacgccttgaaaatcaactggtataagaagggaagctctattgggaagatgttcgaggccactgccagaggtgcaaggcgcatggccatcttgggagacacagcttgggactttggatcagtgggtggtgttctgaactcattaggcaaaatggtgcaccaaatattcggaagtgcttacacagccctattcagtggagtctcttgggtaatgaaaattggaataggagttctcttgacttggatagggttgaattcaaaaaacacatccatgtcattttcgtgcattgcgataggaatcattacactctatctgggagctgtggtgcaagct----------------------------------
+
+    </sequence>
+    
+    <sequence>
+    <taxon idref="JX070123_2010"/>
+    -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------tggccagatggggaaccttcaagaagtcgggggccattaaggtcctgaaaggcttcaagaaggagatttcaaacatgttgagcataatcaacaaacggaaaaagacatcgctctgtctcatgatgatattgccagcagcacttgctttccacttgacttcacgagatggagagccgcgcatgattgtggggaagaatgaaagaggaaagtccctactttttaagacagcctctggaatcaacatgtgcacactcatagccatggacttgggagagatgtgtgatgacacggtcacttacaaatgcccccacattaccgaagtggaacctgaagacattgactgctggtgcaaccttacatcaacatgggtgacttatggaacgtgtaatcaagctggagagcatagacgcgacaagagatcagtggcgttagctccccatgtcggcatgggactggacacacgcacccaaacctggatgtcggctgaaggagcttggagacaagtcgagaaggtagagacatgggcccttaggcacccagggttcaccatactagccctatttcttgcccattacataggcacttccttgacccagaaggtggttatttttatactactaatgctggtcaccccatccatgacaatgagatgtgtgggagtgggaaacagagattttgtggaaggtctgtcaggagctacgtgggttgacgtggtgctagagcacggggggtgtgtgaccaccatggctaagaacaagcccacgctggatatagagcttcagaagaccgaggccacccaactggcgaccctaaggaagctatgcattgaggggaaaattaccaacataacgactgactcaagatgtcccacccaaggggaagcggttttgcctgaggagcaggaccagaactacgtgtgtaagcatacatacgtagacagaggctgggggaacggttgtggtttgtttggcaagggaagcttgctaacatgtgcgaaatttcaatgcctggaaccgatagagggaaaagtggtgcaatatgagaacctcaaatacaccgtcatcattacagtgcacacaggagaccaacaccaggtgggaaatgaaacgcagggagtcacggctgagataacgcctcaggcatcaaccactgaagccatcttgcctgaatatggaacccttgggctagaatgctcaccacggacaggtttggacttcaatgaaatgatcttactaacaatgaagaacaaagcatggatggtacatagacaatggttctttgacctacctctaccatggacatcaggagctacaacagaaacaccaacttggaacaggaaggagctccttgtgacattcaaaaatgcacatgcgaaaaaacaagaagtagttgtccttggatcgcaagagggagcaatgcataccgcactgacaggagccacagaaatccaaaactcaggaggcacaagcatttttgcggggcacttaaagtgtagacttaagatggacaaattggaactcaaggggatgagctatgcaatgtgcacgaatacctttgtgttgaagaaagaagtctcagaaacgcagcatgggacaatactcattaaggttgagtacaaaggggaagatgcaccttgcaagattcctttctccacagaggatggacaggggaaagctcacaatggcagactgatcacagccaacccagtggtgactaagaaggaggagcctgttaacattg---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+    </sequence>
+    
+    <sequence>
+    <taxon idref="JX070131_2011"/>
+    -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------tggctagatggggaaccttcaagaagtcgggggccattaaggtcttgaaaggcttcaagaaggagatctcaaacatgctgagcataatcaacaaacggaaaaagacatcactctgtttcatgatgatattgccagcagcacttgctttccacttgacttcacgagatggagagccgcgcatgattgtggggaagaatgaaagaggaaaatccctactttttaagacagcctctggaattaacatgtgcacactcatagccatggatttgggagagatgtgtgatgacacggtcacttacaaatgcccccacattaccgaagtggaacctgaagacattgactgctggtgcaaccttacatcaacatgggtgacttatggaacatgcaatcaagctggagagcatagacgcgacaagagatcagtggcgttagctccccatgtcggcatgggattggacacacgcacccaaacctggatgtcggctgaaggagcttggagacaagtcgagaaggtagagacatgggcccttaggcacccagggtttaccatactagccctatttctcgcccattacataggcacttccttgacccagaaggtggttattttcatattattaatgttggtcaccccatccatgacaatgagatgtgtgggagtaggaaacagagattttgtggaagggctatcaggagctacgtgggttgacgtggtgctcgagcacggggggtgtgtgactaccatggctaagaacaagcccacgctggatatagagcttcagaagaccgaggccacccaactggcgaccctaagaaagctatgcattgaggggaaaattaccaacataacaactgactcaagatgtcccacccaaggggaagcggttttgcctgaggagcaggaccagaactacgtgtgtaagcacacatacgtggacagaggctgggggaacggttgtggtttgtttggcaaaggaagcttggtaacatgtgcgaaatttcaatgcctggaaccaatagagggaaaagtggtgcaatatgagaacctcaaatacaccgttatcattacagtgcacacaggagaccaacaccaggtgggaaatgaaacgcaaggagtcacggctgagataacacctcaggcatcaaccactgaagccatcttgcctgaatatggaacccttgggctagaatgctcaccacggacaggtttggatttcaatgaaatgatcttactaacaatgaagaacaaagcatggatggtacatagacaatggttctttgacctacctctaccatgggcatcaggagcaacaacagaaacaccaacctggaacaggaaggagcttcttgtgacattcaagaacgcacatgcgaaaaaacaagaagtagttgttcttggatcgcaagagggagcaatgcataccgcactgacgggagctacagaaatccaaaactcaggaggcacaagcattttcgcggggcacttaaaatgtagacttaagatggacaaattggaactcaaggggatgagctatgcaatgtgcacgaataccttcgtgttgaaaaaagaggtctcagaaacgcagcacgggacaatactcattaaggttgagtacaaaggggaagatgcaccttgcaagattcccttttccacagaggatggacaagggaaagctcacaatggcagactgatcacagccaaccctgtggtgactaagaaggaggagcccgtcaatattg---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+    </sequence>
+    
+    <sequence>
+    <taxon idref="AB600934_1988"/>
+    -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ttccacttgacttcacgagatggagagccgcgcatgattgtggggaagaatgaaagaggaaaatccctactttttaagacagcctctggaatcaacatgtgcacactcatagccatggatttgggagagatgtgtgatgacacggtcacttacaaatgccccctcattactgaagtggagcccgaagacattgactgctggtgcaacctcacatcgacgtgggtgacctacggaacgtgcaaccaagctggagagcacagacgcgataagagatcggtggcgttagctccccatgtcggcatgggactggacacacgcacccaaacctggatgtcggctgaaggagcttggagacaagtcgagaaggtagagacatgggcctttaggcacccagggttcacagtactagccctatttcttgcccattacataggcacttccttgacccagaaagcggtcattttcatactactaatgctggtcaccccatccatgacaatgagatgtgtgggagtaggaaacagagattttgtggaaggcctatcaggagctacgtgggttgacgtggtgcttgaacacggtgggtgtgtgactaccatggctaagaacaagcccacgctggatatagagctccagaagaccgaggccacccaactggcgaccctaaggaaactatgcattgagggaaaaattaccaacgtaacaaccgactcaaggtgccccacccaaggagaagcgattttacctgaggagcaggaccagaactacgtgtgtaaacacacatacgtggacagaggctggggaaacggttgtggtttgtttggcaagggaagcttggtaacatgcgcgaaatttcaatgtttggaatcaatagagggaaaagtggtgcagcatgagaacctcaaatacaccgtcatcatcacagtgcacacaggagaccaacaccaggtgggaaatgaaacgcagggagtcacggctgagataacaccccaggcatcaaccgtcgaagccatcttacctgaatatggaacccttgggctagaatgttcaccacggacaggtttggattttaatgaaatgattttgttgacaatgaagaacaaagcatggatggtacatagacaatggttttttgacctacccctaccatggacatcaggggctacaacagaaacaccaacctggaataagaaagagcttcttgtgacattcaaaaacgcacacgcaaaaaaacaagaagtagtagtccttggatcgcaagagggagcaatgcacacagcactgacaggagctacagagatccaaacctcaggaggcacaagtatttttgcggggcacttaaaatgcagactcaagatggacaaattggaactcaaggggatgagctatgcaatgtgtttaaatgcctttgtgttgaagaaagaagtctccgaaacacaacatgggacaatactcattaaagttgagtacaaaggggaagatgcaccttgcaagattcctttctccacggaggatggacaagggaaagcccacaatggcagactgatcacagccaacccagtggtgaccaagaaggaggagcctgtcaatattgaggcagaacctccttttggggaaagtaatatagtaattggaattggagacaaagccttgaaaatcaactggtacaagaagggaagctcgatcgggaagatgttcgaggccactgccagaggtgcaaggcgcatggccatcttgggagacacagcctgggactttggatcagtaggtggtgttttaaattcattagggaaaatggtgcaccaaatatttggaagtgcttacacggccctatttagtggagtctcctggataatgaaaattggaataggtgtccttttaacctggatagggttgaattcaaaaaacacttctatgtcattttcatgcattgtgataggaatcatcacactctatctgggagccgtggtgcaagct----------------------------------
+
+    </sequence>
+    
+    <sequence>
+    <taxon idref="JX070125_2010"/>
+    -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------tggccagatggggaaccttcaagaagtcgggggccattaaggtcctgaaaggcttcaagaaggagatttcaaacatgttgagcataatcaacaaacggaaaaagacatcgctctgtctcatgatgatattgccagcagcacttgctttccacttgacttcacgagatggagagccgcgcatgattgtggggaagaatgaaagaggaaagtccctactttttaagacagcctctggaatcaacatgtgcacactcatagccatggacttgggagagatgtgtgatgacacggtcacttacaaatgcccccacattaccgaagtggaacctgaagacattgactgctggtgcaaccttacatcaacatgggtgacttatggaacgtgtaatcaagctggagagcatagacgcgacaagagatcagtggcgttagctccccatgtcggcatgggactggacacacgcacccaaacctggatgtcggctgaaggagcttggagacaagtcgagaaggtagagacatgggcccttaggcacccagggttcaccatactagccctatttcttgctcattacataggcacttccttgacccagaaggtggttatttttatactactaatgctggtcaccccatccatgacaatgagatgtgtgggagtgggaaacagagattttgtggaaggtctgtcaggagctacgtgggttgacgtggtgctagagcacggggggtgtgtgaccaccatggctaagaacaagcccacgctggatatagagcttcagaagaccgaggccacccaactggcgaccctaaggaagctatgcattgagggcaaaattaccaacataacgactgactcaagatgtccaacccaaggggaagcgattttgcctgaggagcagaaccagaactacgtgtgtaagcatacatacctagacagagcctgggagaaccgatgtggtttgtttggcaagggaagcttggtaacatgtgcgaaatttcaatgcctggaaccgatagagggaaaagtggtgcaatatgagaacctcaaatacaccgtcatcattacagtgcacacaggagaccaacaccaggtgggaaatgaaacgcagggagtcacggctgagataacgcctcaggcatcaaccactgaagccatcttgcctgaatatggaacccttgggctagaatgctcaccacggacaggtttggacttcaatgaaatgatcttactaacaatgaagaacaaagcatggatggtacatagacaatggttctttgacctacctctaccatggacatcaggagctacaacagaaacaccaacttggaacaggaaggagctccttgtgacattcaaaaatgcacatgcgaaaaaacaagaagtagttgtccttggatcgcaagagggagcaatgcataccgcactgacaggagccacagaaatccaaaactcaggaggcacaagcatttttgcggggcacttaaagtgtagacttaagatggacaaattggaactcaaggggatgagctatgcaatatgcacgaatacctttgtgttgaagaaagaagtctcagaaacgcagcatgggacaatactcattaaggttgagtacaaaggggaagatgcaccttgcaagattcctttctccacagaggatggacaggggaaagctcacaatggcagactgatcacagccaacccagtggtgactaagaaggaggagcctgttaacattg---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+    </sequence>
+    
+    <sequence>
+    <taxon idref="JX070128_2011"/>
+    -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------tggctagatggggaaccttcaagaagtcgggggccattaaggtcttgaaaggcttcaagaaggagatctcaaacatgctgagcataatcaacaaacggaaaaagacatcactctgtctcatgatgatattgccagcagcacttgctttccacttgacttcacgagatggagagccgcgcatgattgtggggaagaatgaaagaggaaaatccctactttttaagacagcctctggaattaacatgtgcacactcatagccatggatttgggagagatgtgtgatgacacggtcacttacaaatgcccccacattaccgaagtggaacctgaagacattgactgctggtgcaaccttacatcaacatgggtgacttatggaacgtgcaatcaagctggagagcatagacgcgacaagagatcagtggcgttagctccccatgtcggcatgggattggacacacgcacccaaacctggatgtcggctgaaggagcttggagacaagtcgagaaggtagagacatgggcccttaggcacccagggtttaccatactagccctatttctcgcccattacataggcacttccttgacccagaaggtggttattttcatattattaatgttggtcaccccatccatgacaatgagatgtgtaggagtaggaaacagagattttgtggaagggctatcaggagctacgtgggttgacgtggtgctcgagcacggggggtgtgtgactaccatggctaagaacaagcccacgctggatatagagcttcagaagaccgaggccacccaactggcgaccctaagaaagctatgcattgaggggaaaattaccaacataacaactgactcaagatgtcccacccaaggggaagcggttttgcctgaggagcaggaccagaactacgtgtgtaagcacacatacgtggacagaggctgggggaacggttgtggtttgtttggcaaaggaagcttggtaacatgtgcgaaatttcaatgcctggaaccaatagaggggaaagtggtgcaatatgagaacctcaaatacaccgttatcattacagtgcacacaggagaccaacaccaggtgggaaatgaaacgcaaggagtcacggctgagataacacctcaggcatcaaccactgaagccatcttgcctgaatatggaacccttgggctagaatgctcaccacggacaggtttggatttcaatgaaatgatcttactaacaatgaagaacaaagcatggatggtacacagacaatggttctttgacctacctctaccatgggcatcaggagcaacaacagaaacaccaacctggaacaggaaggagcttcttgtgacattcaagaacgcacatgcgaaaaaacaagaagtagttgttcttggatcgcaagagggagcaatgcataccgcactgacgggagctacagaaatccaaaactcaggaggcacaagcattttcgcggggcacttaaaatgtagacttaagatggacaaattggaactcaaggggatgagctatgcaatgtgcacgaataccttcgtgttgaaaaaagaggtctcagaaacgcagcacgggacaatactcattaaggttgagtacaaaggggaagatgcaccttgcaagattcccttttccacagaggatggacaagggaaagctcacaatggcagactgatcacagccaaccctgtggtgactaagaaggaggagcccgtcaatattg---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+    </sequence>
+    
+    <sequence>
+    <taxon idref="AB600931_1988"/>
+    -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ttccacttgacttcacgagatggagagccgcgcatgattgtggggaagaatgaaagaggaaaatccctactttttaagacagcctctggaatcaacatgtgcacactcatagccatggatttgggagagatgtgtgatgacacggtcacttacaaatgccccctcattactgaagtggagcctgaagacattgactgctggtgcaacctcacatcgacatgggtgacctacggaacgtgcaaccaagctggagagcacagacgcgataagagatcggtggcgttagctccccatgtcggcatgggactggacacacgcacccaaacctggatgtcggctgaaggagcttggagacaagtcgagaaggtagagacatgggcctttaggcacccagggttcacagtactagccctatttcttgcccattacataggcacttccttgacccagaaagtggtcattttcatactactaatgctggtcaccccatccatgacaatgagatgtgtgggagtaggaaacagagattttgtggaaggcctatcaggagctacgtgggttgacgtggtgcttgaacacggtgggtgtgtgactaccatggctaagaacaagcccacgctggatatagagctccagaagaccgaggccacccaactggcgaccctaaggaaactatgcattgagggaaaaattaccaacgtaacaaccgactcaaggtgccccacccaaggagaagcgattttacctgaggagcaggaccagaactacgtgtgtaagcacacatacgtggacagaggctggggaaacggttgtggtttgtttggcaagggaagcttggtaacatgcgcgaaatttcaatgtttggaatcaatagagggaaaagtggtgcagcatgagaacctcaaatacaccgtcatcatcacagtgcacacaggagaccaacaccaggtgggaaatgaaacgcagggagtcacggctgagataacaccccaggcatcaaccgtcgaagccatcttacctgaatatggaacccttgggctagaatgctcaccacggacaggtttggatttcaatgaaatgattttgttgacaatgaagaacaaagcatggatggtacatagacaatggttttttgacctacctctaccatggacatcaggggctacaacagaagtaccaacctggaacaagaaagagcttcttgtgacattcaaaaacgcacacgcaaaaaaacaagaagtagtagtccttggatcgcaagagggagcaatgcacacagcactgacaggagctacagagatccaaacctcaggaggcacaagtatttttgcggggcacttaaaatgcagactcaagatggacaaattggaactcaaggggatgagctatgcaatgtgtttaaatgcctttgtgttgaagaaagaagtctccgaaacacaacatgggacaatactcattaaagttgagtacaaaggggaagatgcaccttgcaagattcctttctccacggaggatggacaagggaaagcccacaatggcagactgatcacagccaacccagtggtgaccaagaaggaggagcctgtcaatattgaggcagaacctccttttggggaaagtaatatagtaattggaattggagacaaagccttgaaaatcaactggtacaagaagggaagctcgattgggaagatgttcgaggccactgccagaggtgcaaggcgcatggccatcttgggagacacagcctgggactttggatcagtaggtggtgttttaaattcattagggaaaatggtgcaccaaatatttggaagtgcttacacggccctatttagtggagtctcctggataatgaaaattggaataggtgtccttttaacctggatagggttgaattcaaaaaacacttctatgtcattttcatgcattgtgataggaatcatcacactctatctgggagccgtggtgcaagct----------------------------------
+
+    </sequence>
+    
+    <sequence>
+    <taxon idref="AB600936_1988"/>
+    -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ttccacttgacttcacgagatggagagccgcgcatgattgtggggaagaatgaaagaggaaaatccctactttttaagacagcctctggaatcaacatgtgcacactcatagccatggatttgggagagatgtgtgatgacacggtcacttacaaatgccccctcattactgaagtggagcctgaagacattgactgctggtgcaacctcacatcgacatgggtgacctacggaacgtgcaaccaagctggagagcacagacgcgataagagatcggtggcgttagctccccatgtcggcatgggactggacacacgcacccaaacctggatgtcggctgaaggagcttggagacaagtcgagaaggtagagacatgggcctttaggcacccagggttcacagtactagccctatttcttgcccattacataggcacttccttgacccagaaagtggtcattttcatactactaatgctggtcaccccatccatgacaatgagatgtgtgggagtaggaaacagagattttgtggaaggcctatcaggagctacgtgggttgacgtggtgcttgaacacggtgggtgtgtgactaccatggctaagaacaagcccacgctggatatagagctccagaagaccgaggccacccaactggcgaccctaaggaaactatgcattgagggaaaaattaccaacgtaacaaccgactcaaggtgccccacccaaggagaagcgattttacctgaggagcaggaccagaactacgtgtgtaagcacacatacgtggacagaggctggggaaacggttgtggtttgtttggcaagggaagcttggtaacatgcgcgaaatttcaatgtttggaatcaatagagggaaaagtggtgcagcatgagaacctcaaatacaccgtcatcatcacagtgcacacaggagaccaacaccaggtgggaaatgaaacgcagggagtcacggctgagataacaccccaggcatcaaccgtcgaagccatcttacctgaatatggaacccttgggctagaatgctcaccacggacaggtttggattttaatgaaatgattttgttgacaatgaagaacaaagcatggatggtacatagacaatggttttttgacctacctctaccatggacatcaggggctacaacagaaacaccaacctggaataagaaagagcttcttgtgacattcaaaaacgcacacgcaaaaaaacaagaagtagtagtccttggatcgcaagagggagcaatgcacacagcactgacaggagctacagagatccaaacctcaggaggcacaagtatttttgcggggcacttaaaatgcagactcaagatggacaaattggaactcaaggggatgagctatgcaatgtgtttaaatgcctttgtgttgaagaaagaagtctccgaaacacaacatgggacaatactcattaaagttgagtacaaaggggaagatgcaccttgcaagattcctttctccacggaggatggacaagggaaagcccacaatggcagactgatcacagccaacccagtggtgaccaagaaggaggagcctgttaatattgaggcagaacctccttttggggaaagtaatatagtaattggaattggagacaaagccttgaaaatcaactggtacaagaagggaagctcgattgggaagatgttcgaggccactgccagaggtgcaaggcgcatggccatcttgggagacacagcctgggactttggatcagtaggtggtgttttaaattcattagggaaaatggtgcaccaaatatttggaagtgcttacacggccctatttagtggagtctcctggataatgaaaattggaataggtgtccttttaacctggatagggttgaattcaaaaaacacttctatgtcattttcatgcattgtgataggaatcatcacactctatctgggagccgtggtgcaagct----------------------------------
+
+    </sequence>
+    
+    <sequence>
+    <taxon idref="FJ389914_2007"/>
+    ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------tcagtggcgttagctccccatgtcggcatgggactagacacacgcacccaaacctggatgtcggctgaaggagcttggaggcaagtcgagaaggtagagacatgggcccttaggcacccagggttcactatactagccctatttcttgcccattacataggcacatccttgacccagaaggtggttatttttatactattaatgctggtcaccccatccatgacaatgagatgtgtgggagtaggaaacagagattttgtggaaggtctatcaggagctacgtgggttgacgtggtgctcgagcacggggggtgtgtgactaccatggctaagaacaagccaacgttggatatagagcttcagaagaccgaggccacccaattggcgaccctaaggaaactatgcattgaggggaaaattaccaacataacaactgactcaagatgtcctacccaaggggaagcggctttgcctgaggagcaggaccagaactacgtgtgtaagcatacatacgtagacagaggctgggggaacggatgtggtttgtttggcaagggaagcttggtaacatgtgcgaaatttcaatgcctggaaccaatagagggaaaagtggtgcaatatgagaacctcaaatacaccgtcatcatcacagtgcacacaggagatcaacaccaggtgggaaatgaaacgcagggagtcacggctgaaataacacctcaggcatcaaccactgaagccatcttgcctgaatatggaacccttgggctagaatgctcaccacggacaggtttggatttcaatgaaatgatcttactaacaatgaagaacaaagcatggatggtacatagacaatggttttttgacctacctctaccatggacatcaggagctacaacggaaacaccaacctggaacaggaaggagcttcttgtgacattcaaaaacgcacatgcgaagaaacaagaagtagttgtccttggatcgcaagagggagcaatgcataccgcattgacaggagccacagaaatccaaaactcaggaggcacaagtatttttgcggggcacttaaaatgcagacttaagatggacaaattggaactcaaggggatgagctatgcaatgtgcacgaatacctttgtgttgaagaaagaagtctcagaaacgcagcatgggacaatactcattaaggtcgagtacaaaggggaagatgtaccttgcaagattcctttctctacagaggatggacaagggaaagctcacaatggcagactgattacagccaacccagtggtgactaagaaggaggagcctgtcaatattgaggctgaacctccttttggggaaagcaatatagtgattggaattggagacaacgccttgaaaatcaactggtataagaagggaagctctattgggaagatgttcgaggccactgccagaggtgcaaggcgcatggccatcttgggagacacagcttgggactttggatcagtgggtggtgttctgaactcattaggcaaaatggtgcaccaaatattcggaagtgcttacacagccctattcagtggagtctcttgggtaatgaaaattggaataggagttctcttgacttggatagggttgaattcaaaaaacacatccatgtcattttcgtgcattgcgataggaatcattacactctatctgggagctgtggtgcaagct----------------------------------
+
+    </sequence>
+    
+    <sequence>
+    <taxon idref="JX070127_2010"/>
+    -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------tggccagatggggaaccttcaagaagtcgggggccattaaggtcctgaaaggcttcaagagggagatctcaaacatgctgagcataatcaacaaacggaaaaagacatcgctctgtctcatgatgatattgccagcaacacttgctttccacttgacttcacgagatggagagccgcgcatgattgtggggaagaatgaaagaggaaaatccctactttttaagacagcctctggaattaacatgtgcacactcatagcaatggacttgggagagatgtgtgatgacacggtcacttacaaatgcccccacattaccgaagtggaacctgaagacattgactgctggtgcaaccttacatcaacatgggtgacttatggaacgtgcaatcaagctggagagcatagacgcgacaagagatcagtggcgttagctccccatgtcggcatgggactggacacacgcacccaaacctggatgtcggctgaaggagcttggagacaagttgagaaggtagagacatgggcccttaggcacccagggttcaccatactagccctatttcttgcccattacataggcacctccttgacccagaaggtggttatttttatactactaatgctggtcaccccatccatgacaatgagatgcgtgggggtgggaaacagagattttgtggaaggtctgtcaggagctacgtggattgacgtggtgctagagcacggggggtgtgtgaccaccatggctaagaacaagcccacgctggatatagagcttcagaagaccgaggccacccaactggcgaccctaaggaagctatgcattgaggggaaaattaccaacataacaactgactcaagatgtcctacccaaggggaagcagttttgcctgaggagcaggaccagaactacgtgtgtaagcatacatacgtagacagaggctgggggaacggttgtggtctgtttggcaagggaagcttggtaacatgtgcgaaatttcaatgcctggaaccgatagagggaaaagtggtgcaatatgagaacctcaaatacaccgtcatcattacagtgcacacaggagaccaacaccaggtgggaaatgaaacgcagggagtcacggctgagataacgcctcaggcatcaactactgaagctatcttgcctgaatatggaacccttgggctagaatgctcaccacggacaggtctggatttcaatgaaatgatcttactaacaatgaagaacaaagcatggatggtacacagacaatggttttttgacctacctctaccatggacatcaggagctacaacagaaacaccaacttggaacaggaaggagctccttgtgacattcaaaaatgcacatgcgaaaaaacaagaagtagttgtccttggatcgcaagagggagcaatgcataccgcactgacaggagccacagaaatccaaaactcaggaggcacaagcatttttgcggggcacttaaagtgtagacttaagatggacaaattggaactcaaggggatgagctatgcaatgtgcacgaatacctttgtgttgaagaaagaagtctcagaaacgcagcatgggacaatactcattaaggtcgagtacaaaggggaagatgcaccttgcaagattcctttctccacagaggatggacaagggaaagctcacaatggcagactgatcacagccaacccagtggtgaccaagaaggaggagcctgttaacattg---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+    </sequence>
+    
+    <sequence>
+    <taxon idref="EU259605_2003"/>
+    -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ttccacttgacttcacgagatggagagccgcgcatgattgtggggaagaatgaaagaggaaaatccctactttttaagacagcctctggaatcaacatgtgcacactcatagccatggacttgggagagatgtgtgatgacacggtcacttacaaatgcccccacattaccgaagtggaacctgaagacattgactgctggtgcaaccttacatcaacatgggtgacttacggaacgtgcaatcaagccggagagcgtagacgcgacaagagatcagtggcgttagctccccatgtcggcatgggactagacacacgcacccaaacctggatgtcggctgaaggagcttggaggcaagtcgagaaggtagagacatgggcccttaggcacccagggttcaccatactagccctatttcttgcccattacataggcacatccttgacccagaaggtggttatttttatactactaatgctggtcaccccatccatgacaatgagatgtgtgggagtaggaaacagagattttgtggaaggtctatcaggagctacgtgggttgacgtggtgctcgagcacggggggtgtgtgactaccatggctaagaacaagccaacgttggatatagagcttcagaagaccgaggccacccaattggcgaccctaaggaagctatgcattgaggggaaaattaccaacataacaactgactcaagatgtcctacccaaggggaagcggttttgcctgaggagcaggaccagaactacgtgtgtaagcatacatacgtagacagaggctgggggaacggatgtggtttgtttggcaagggaagcttggtaacatgtgcgaaatttcaatgcctggaaccaatagagggaaaagtggtgcagtatgagaacctcaaatacaccgtcatcatcacagtgcacacaggagatcaacaccaggtgggaaatgaaacgcagggagtcacggctgagataacacctcaggcatcaaccactgaagccatcttgcctgaatatggaacccttgggctagaatgctcaccacggacaggtttggatttcaatgaaatgatcttgctaacaatgaagaacaaagcatggatggtacatagacaatggttttttgacctacctctaccatggacatcaggagctacaacggaaacaccaacctggaacaggaaggagcttcttgtgacatttaaaaacgcacatgcgaagaaacaagaagtagttgtccttggatcgcaagagggagcaatgcataccgcattgacaggagccacagaaatccaaaactcaggaggcacaagtatttttgcggggcacttaaaatgtagacttaagatggacaaattggaactcaaggggatgagctatgcaatgtgcacgaatacctttgtgttgaagaaagaagtctcagaaacgcagcatgggacaatactcattaaggtcgagtacaaaggggaagatgcaccttgcaagattcctttctccacagaggatggacaagggaaagctcacaatggcagactgattacagccaacccagtggtgactaagaaggaggagcctgtcaatattgaggctgaacctccttttggggaaagtaatatagtgattggaattggagacaacgccttgaaaatcaactggtataagaaaggaagctctattgggaagatgttcgaggccactgccagaggtgcaaggcgcatggccatcttgggagacacagcttgggactttggatcagtgggtggtgttctgaactcattaggcaaaatggtgcaccaaatattcggaagtgcttacacagccctattcagtggagtctcttgggtaatgaaaatcggaataggagttctcttgacttggatagggttgaactcaaaaaacacatccatgtcattttcatgcattgcgataggaatcattacactctatctgggagctgtggtgcaggct----------------------------------
+
+    </sequence>
+    
+    <sequence>
+    <taxon idref="EU570161_2003"/>
+    -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------atgagatgtgtgggagtaggaaacagagattttgtggaaggcctatcgggagctacgtgggttgacgtggtgctcgagcacggtgggtgtgtgactaccatggctaagaacaagcccacgctggacatagagcttcagaagaccgaggccactcaactggcgaccctaaggaagctatgcattaagggaaaaattaccaacataacaaccgactcaagatgtcccacccaaggggaagcgattttacctgaggagcaggaccagaactacgtgtgtaagcatacatacgtggacagaggctggggaaacggttgtggtttgtttggcaagggaagcttggtgacatgcgcgaaatttcaatgtttacaatcaatagagggaaaagtggtgcaacatgagaacctcaaatacaccgtcatcatcacagtgcacacaggagaccaacaccaggtgggaaatgaaacgcagggagttacggctgagataacatcccaggcatcaaccgctgaagccattttacctgaatatggaaccctcgggctagaatgctcaccacggacaggtttggatttcaatgaaatgattttattgacaatgaagaacaaagcatggatggtacatagacaatggttctttgacttacccctaccatggacatcaggagctacaacagaaacaccaacttggaacaggaaagagcttcttgtgacatttaaaaatgcacatgcaaaaaagcaagaagtagttgtccttggatcacaagagggagcaatgcatacagcactgacaggagctacagagatccaaacctcaggaggcacaagtatttttgcggggcacttaaaatgtagactcaagatggacaaattgaaactcaaggggatgagctatgcaatgtgcttgaatacctttgtgttgaagaaagaagtctccgaaacgcagcatgggacaatactcattaaggttgagtacaaaggggaagatgcccactgcaagattcctttctccacggaggatggacaagggaaagctcacaatggcagactgatcacagccaatccagtggtgaccaagaaggaggagcctgtcaacattgaggctgaacctccttttggggaaagtaatatagtaattggaattggagacaaagccctgaaaatcaactggtacaggaagggaagctcgattgggaagatgttcgaggccactgccagaggtgcaaggcgcatggccatcttgggagacacagcctgggactttggatcagtgggtggtgttttgaattcattagggaaaatggtccaccaaatatttgggagtgcttacacagccctatttagtggagtctcctggataatgaaaattggaataggtgtcctcttaacctggatagggttgaattcaaaaaacacttctatgtcattttcatgcattgcgataggaatcattacactctatctgggagtcgtggtgcaagct----------------------------------
+
+    </sequence>
+    
+    <sequence>
+    <taxon idref="JX070129_2011"/>
+    -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------tggctagatggggaaccttcaagaagtcgggggccattaaggtcttgaaaggcttcaagaaggagatctcaaacatgctgagcataatcaacaaacggaaaaagacatcactctgtctcatgatgatattgccagcagcacttgctttccacttgacttcacgagatggagagccgcgcatgattgtggggaagaatgaaagaggaaaatccctactttttaagacagcctctggaattaacatgtgcacactcatagccatggatttgggagagatgtgtgatgacacggtcacttacaaatgcccccacattaccgaagtggaacctgaagacattgactgctggtgcaaccttacatcaacatgggtgacttatggaacgtgcaatcaagctggagagcatagacgcgacaagagatcagtggcgttagctccccatgtcggcatgggattggacacacgcacccaaacctggatgtcggctgaaggagcttggagacaagtcgagaaggtagagacatgggcccttaggcacccagggtttaccatactagccctatttctcgcccattacataggcacttccttgacccagaaggtggttattttcatattattaatgttggtcaccccatccatgacaatgagatgtgtgggagtaggaaacagagattttgtggaagggctatcaggagctacgtgggttgacgtggtgctcgagcacggggggtgtgtgactaccatggctaagaacaagcccacgctggatatagagcttcagaagaccgaggccacccaactggcgaccctaagaaagctatgcattgaggggaaaattaccaacataacaactgactcaagatgtcccacccaaggggaagcggttttgcctgaggagcaggaccagaactacgtgtgtaagcacacatacgtggacagaggctgggggaacggttgtggtttgtttggcaaaggaagcttggtaacatgtgcgaaatttcaatgcctggaaccaatagagggaaaagtggtgcaatatgagaacctcaaatacaccgttatcattacagtgcacacaggagaccaacaccaggtgggaaatgaaacgcagggagtcacggctgagataacacctcaggcatcaaccactgaagccatcttgcctgaatatggaacccttgggctagaatgctcaccacggacaggtttggatttcaatgaaatgatcttactaacaatgaagaacaaagcatggatggtacacagacaatggttctttgacctacctctaccatgggcatcaggagcaacaacagaaacaccaacctggaacaggaaggagcttcttgtgacattcaagaacgcacatgcgaaaaaacaagaagtagttgttcttggatcgcaagagggagcaatgcataccgcactgacgggagctacagaaatccaaaactcaggaggcacaagcattttcgcggggcacttaaaatgtagacttaagatggacaaattggaactcaaggggatgagctatgcaatgtgcacgaataccttcgtgttgaaaaaagaggtctcagaaacgcagcacgggacaatactcattaaggttgagtacaaaggggaagatgcaccttgcaagattcccttttccacagaggatggacaagggaaagctcacaatggcagactgatcacagccaaccctgtggtgactaagaaggaggagcccgtcaatattg---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+    </sequence>
+    
+    <sequence>
+    <taxon idref="AB600925_1988"/>
+    -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------atcaacagacggaaaaagacatcgctctgtctcatgatgatgttaccagcaacacttgctttccacttgacttcacgagatggagagccgcgcatgattgtggggaagaatgaaagaggaaaatccctgctttttaagacagcctctggaatcaacatgtgcacactcatagccatggatttgggagagatgtgtgatgacacggtcacttacaaatgccccctcattactgaagtggagcctgaagacattgactgctggtgcaaccttacatcgacgtgggtgacctacggaacgtgcaaccaagctggagagcatagacgcgataagagatcggtggcattagctccccatgtcggcatgggactggacacacgcacccaaacctggatgtcggctgaaggagcttggagacaagtcgagaaggtagagacatgggcctttaggcacccagggttcacaatactagccctatttcttgcccattacataggcacttccttgacccagaaagtggtcattttcatactactaatgctggtcaccccatccatgacaatgagatgtgtgggagtaggaaacagagattttgtggaaggcctatcaggggctacgtgggttgacgtggtgctcgaacacggtgggtgtgtgactaccatggctaagaacaagcccacgctggatatagagctccagaagaccgaggccacccaactggcgaccctaaggaaactatgcattgagggaaaaattaccaacgtaacaaccgactcaaggtgccccacccaaggggaagcgattttacctgaggagcaggaccagaactacgtgtgtaagcacacatacgtggacagaggctggggaaacggttgtggtttgtttggcaagggaagcttggtaacatgcgcgaaatttcaatgtttggaatcaatagagggaaaagtggtgcagcatgagaacctcaaatacactgtcatcatcacagtgcacacaggagaccaacaccaggtaggaaatgaaacgcagggagtcacggctgagataacaccccaggcatcaaccgtcgaagccatcttacctgaatatggaacccttgggctagaatgctcaccacggacaggtttggatttcaatgaaatgattttgttgacaatgaagaacaaagcatggatggtacatagacaatggttttttgacctacctctaccatggacatcaggggctacaacagaaacaccaacctggaataagaaagagcttcttgtgacattcaaaaacgcacacgcaaaaaaacaagaagtagtagtccttggatcgcaagagggagcaatgcacacagcactgacaggagctacagagatccaaacctcaggaggcacaagtatttttgcggggcacttaaaatgcagactcaagatggacaaattggaactcaaggggatgagctatgcaatgtgcttaaatgccttcgtgttgaagaaagaagtctccgaaacacaacatgggacgatactcattaaggttgagtacaaaggggaagatgcaccttgcaagattcctttctccacggaggatggacaagggaaagcccacaatggcagactgatcacagctaacccagtggtgaccaagaaggaggagcctgtcaatattgaggcagaacctccttttggggaaagtaacatagtaattggaattggagacaaagccttgaaaatcaactggtacaagaagggaagctcgattgggaagatgttcgaggccactgccagaggtgcaaggcgcatggccatcttgggagacacagcctgggactttggatcagtaggtggtgttttaaattcattagggaaaatggtgcaccaaatatttggaagtgcttacacggccctatttagtggagtctcctggataatgaaaattggaataggtgtccttttaacctggatagggctgaattcaaagaacacttctatgtcattttcatgcattgtgataggaatcatcacactctatctgggagccgtggtgcaagct----------------------------------
+
+    </sequence>
+    
+    <sequence>
+    <taxon idref="AB600928_1988"/>
+    -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ttccacttgacttcacgagatggagagccgcgcatgattgtggggaagaatgaaagaggaaaatccctactttttaagacagcctctggaatcaacatgtgcacactcatagccatggatttgggagagatgtgtgatgacacggtcacttacaaatgccccctcattactgaagtggagcctgaagacattgactgctggtgcaacctcacatcgacatgggtgacctacggaacgtgcaaccaagctggagagcacagacgcgataagagatcggtggcgttagctccccatgtcggcatgggactggacacacgcacccaaacctggatgtcggctgaaggagcttggagacaagtcgagaaggtagagacatgggcttttaggcacccagggttcacagtactagccctatttcttgcccattacataggcacttccttgacccagaaagtggtcattttcatactactaatgctggtcaccccatccatgacaatgagatgtgtgggagtaggaaacagagattttgtggaaggcctatcaggagctacgtgggttgacgtggtgcttgaacacggtgggtgtgtgactaccatggctaagaacaagcccacgctggatatagagctccagaagaccgaggccacccaactggcgaccctaaggaaactatgcattgagggaaaaattaccaacgtaacaaccgactcaaggtgccccacccaaggagaagcgattttacctgaggagcaggaccagaactacgtgtgtaagcacacatacgtggacagaggctggggaaacggttgtggtttgtttggcaagggaagcttggtaacatgcgcgaaatttcaatgtttggaatcaatagagggaaaagtggtgcagcatgagaacctcaaatacaccgtcatcatcacagtgcacacaggagaccaacaccaggtgggaaatgaaacgcagggagtcacggctgagataacaccccaggcatcaaccgtcgaagccatcttacctgaatatggaacccttgggctagaatgctcaccacggacaggtttggattttaatgaaatgattttgttgacaatgaagaacaaagcatggatggtacatagacaatggttttttgacctacctctaccatggacatcaggggctacaacagaaacaccaacctggaataagaaagagcttcttgtgacattcaaaaacgcacacgcaaaaaaacaagaagtagtagtccttggatcgcaagagggagcaatgcacacagcactgacaggagctacagagatccaaacctcaggaggcacaagtatttttgcggggcacttaaaatgcagactcaagatggacaaattggaactcaaggggatgagctatgcaatgtgtttaaatgcctttgtgttgaagaaagaagtctccgaaacacaacatgggacaatactcattaaagttgagtacaaaggggaagatgcaccttgcaagattcctttctccacggaggatggacaagggaaagcccacaatggcagactgatcacagccaacccagtggtgaccaagaaggaggagcctgtcaatattgaggcagaacctccttttggggaaagtaatatagtaattggaattggagacaaagccttgaaaatcaactggtacaagaagggaagctcgattgggaagatgttcgaggccactgccagaggtgcaaggcgcatggccatcttgggagacacagcctgggactttggatcagtaggtggtgttttaaattcattagggaaaatggtgcaccaaatatttggaagtgcttacacggccctatttagtggagtctcctggataatgaaaattggaataggtgtccttttaacctggatagggttgaattcaaaaaacacttctatgtcattttcatgcattgtgataggaatcatcacactctatctgggagccgtggtgcaagct----------------------------------
+
+    </sequence>
+    
+    <sequence>
+    <taxon idref="AB600932_1988"/>
+    -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ttccacttgacttcacgagatggagagccgcgcatgattgtggggaagaatgaaagaggaaaatccctactttttaagacagcctctggaatcaacatgtgcacactcatagccatggatttgggagagatgtgtgatgacacggtcacttacaaatgccccctcattactgaagtggagcctgaagacattgactgctggtgcaacctcacatcgacatgggtgacctacggaacgtgcaaccaagctggagagcacagacgcgataagagatcggtggcgttagctccccatgtcggcatgggactggacacacgcacccaaacctggatgtcggctgaaggagcttggagacaagtcgagaaggtagagacatgggcttttaggcacccagggttcacagtactagccctatttcttgcccattacataggcacttccttgacccagaaagtggtcattttcatactactaatgctggtcaccccatccatgacaatgagatgtgtgggagtaggaaacagagattttgtggaaggcctatcaggagctacgtgggttgacgtggtgcttgaacacggtgggtgtgtgactaccatggctaagaacaagcccacgctggatatagagctccagaagaccgaggccacccaactggcgaccctaaggaaactatgcattgagggaaaaatcaccaacgtaacaaccgactcaaggtgccccacccaaggagaagcgattttacctgaggagcaggaccagaactacgtgtgtaagcacacatacgtggacagaggctggggaaacggttgtggtttgtttggcaagggaagcttggtaacatgcgcgaaatttcaatgtttggaatcaatagagggaaaagtggtgcagcatgagaacctcaaatacaccgtcatcatcacagtgcacacaggagaccagcaccaggtgggaaatgaaacgcaaggagtcacggctgagataacaccccaggcatcaaccgtcgaagccatcttacctgaatatggaacccttgggctagaatgctcaccacggacaggtttggattttaatgaaatgattttgttgacaatgaagaacaaagcatggatggtacatagacaatggttttttgacctacctctaccatggacatcaggggctacaacagaaacaccaacctggaataagaaagagcttcttgtgacattcaaaaacgcacacgcaaaaaaacaagaagtagtagtccttggatcgcaagagggagcaatgcacacagcactgacaggagctacagagatccaaacctcaggaggcacaagtatttttgcggggcacttaaaatgcagactcaagatggacaaattggaactcaaggggatgagctatgcaatgtgtttaaatgcctttgtgttgaagaaagaagtctccgaaacacaacatgggacaatactcattaaagttgagtacaaaggggaagatgcaccttgcaagattcctttctccacggaggatggacaagggaaagcccacaatggcagactgatcacagccaacccagtggtgaccaagaaggaggagcctgtcaatattgaggcagaacctccttttggggaaagtaatatagtaattggaattggagacaaagccttgaaaatcaactggtacaagaagggaagctcgattgggaagatgttcgaggccactgccagaggtgcaaggcgcatggccatcttgggagacacagcctgggactttggatcagtaggtggtgttttaaattcattagggaaaatggtgcaccaaatatttggaagtgcttacacggccctatttagtggagtctcctggataatgaaaattggaataggtgtccttttaacctggatagggttgaattcaaaaaacacttctatgtcattttcatgcattgtgataggaatcatcacactctatctgggagccgtggtgcaagct----------------------------------
+
+    </sequence>
+    
+    <sequence>
+    <taxon idref="EU259608_2002"/>
+    -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ttccacttgacttcacgagatggagagccgcgcatgattgtggggaagaatgaaagaggaaaatccctactttttaagacagcctctggaatcaacatgtgcacactcatagccatggacttgggagagatgtgtgatgacacggtcacttacaaatgcccccacattaccgaagtggaacctgaagacattgactgctggtgcaaccttacatcaacatgggtgacttacggaacgtgcaatcaagccggagagcgtagacgcgacaagagatcagtggcgttagctccccatgtcggcatgggactagacacacgcacccaaacctggatgtcggctgaaggagcttggaggcaagtcgagaaggtagagacatgggcccttaggcacccagggttcaccatactagccctatttcttgcccattacataggcacatccttgacccagaaggtggttatttttatactactaatgctggtcaccccatccatgacaatgagatgtgtgggagtaggaaacagagattttgtggaaggtctatcaggagctacgtgggttgacgtggtgctcgagcacggggggtgtgtgactaccatggctaagaacaagccaacgttggatatagagcttcagaagaccgaggccacccaattggcgaccctaaggaagctatgcattgaggggaaaattaccaacataacaactgactcaagatgtcctacccaaggggaagcggttttgcctgaggagcaggaccagaactacgtgtgtaagcatacatacgtagacagaggctgggggaacggatgtggtttgtttggcaagggaagcttggtaacatgtgcgaaatttcaatgtctggaaccaatagagggaaaagtggtgcagtatgagaacctcaaatacaccgtcatcatcacagtgcacacaggagatcaacaccaggtgggaaatgaaacgcagggagtcacggctgagataacacctcaggcatcaaccactgaagccatcctgcctgaatatggaacccttgggctagaatgctcaccacggacaggtttggatttcaatgaaatgatcttgctaacaatgaagaacaaagcatggatggtacatagacaatggttttttgacctacctctaccatggacatcaggagctacaacggaaacaccaacctggaacaggaaggagcttcttgtgacatttaaaaacgcacatgcgaagaaacaagaagtggttgtccttggatcgcaagagggggcaatgcataccgcattgacaggagccacagaaatccaaaactcaggaggcacaagtatttttgcagggcatttaaaatgtagacttaagatggacaaattggaactcaaggggatgagctatgcaatgtgcacgaatacctttgtgttgaagaaagaagtctcagaaacgcagcatgggacaatactcattaaggtcgagtacagaggggaagatgcaccttgcaagattcctttctccacagaggatggacaagggaaagctcacaatggcagactgattacagccaacccagtggtgactaagaaggaggagcctgtcaatatcgaggctgaacctccttttggggaaagtaatatagtgattggaattggagacaacgccttgaaaattcactggtacaggaaggggagctctattgggaagatgttcgaggccactgccagaggtgcaaggcgcatggccatcttgggagacacagcttgggactttggatcagtgggtggtgttctgaactcattaggcaaaatggtgcaccaaatattcggaagtgcttacacagccctattcagtggagtctcttgggtaatgaaaatcggaataggagttctcttgacttggatagggttgaattcaaaaaacacatccatgtcattttcatgcattgcgataggaatcattacactctatctgggagctgtggtgcaagct----------------------------------
+
+    </sequence>
+    
+    <sequence>
+    <taxon idref="AB600937_1988"/>
+    -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ttccacttgacttcacgagatggagagccgcgcatgattgtggggaagaatgaaagaggaaaatccctactttttaagacagcctctggaatcaacatgtgcacactcatagccatggatttgggagagatgtgtgatgacacggtcacttacaaatgccccctcattactgaagtggagcctgaagacattgactgctggtgcaacctcacatcgacatgggtgacctacggaacgtgcaaccaagctggagagcacagacgcgataagagatcggtggcgttagctccccatgtcggcatgggactggacacacgcacccaaacctggatgtcggctgaaggagcttggagacaagtcgagaaggtagagacatgggcctttaggcacccagggttcacagtactagccctatttcttgcccattacataggcacttccttgacccagaaagtggtcattttcatactactaatgctggtcaccccatccatgacaatgagatgtgtgggagtaggaaacagagattttgtggaaggcctatcaggagctacgtgggttgacgtggtgcttgaacacggtgggtgtgtgactaccatggctaagaacaagcccacgctggatatagagctccagaagaccgaggccacccaactggcgaccctaaggaaactatgcattgagggaaaaattaccaacgtaacaaccgactcaaggtgccccacccaaggagaagcgattttacctgaggagcaggaccagaactacgtgtgtaagcacacatacgtggacagaggctggggaaacggttgtggtttgtttggcaagggaagcttggtaacatgcgcgaaatttcaatgtttggaatcaatagagggaaaagtggtgcagcatgagaacctcaaatacaccgtcatcatcacagtgcacacaggagaccaacaccaggtgggaaatgaaacgcagggagtcacggctgagataacaccccaggcatcaaccgtcgaagccatcttacctgaatatggaacccttgggctagaatgctcaccacggacaggtttggatttcaatgaaatgattttgttgacaatgaagaacaaagcatggatggtacatagacaatggttttttgacctacctctaccatggacatcaggggctacaacagaaacaccaacctggaataagaaagagcttcttgtgacattcaaaaacgcacacgcaaaaaaacaagaagtagtagtccttggatcgcaagagggagcaatgcacacagcactgacaggagctacagagatccaaacctcaggaggcacaagtatttttgcggggcacttaaaatgcagactcaagatggacaaattggaactcaaggggatgagctatgcaatgtgtttaaatgcctttgtgttgaagaaagaagtctccgaaacacaacatgggacaatactcattaaagttgagtacaaaggggaagatgcaccttgcaagattcctttctccacggaggatggacaagggaaagcccacaatggcagactgatcacagccaacccagtggtgaccaagaaggaggagcctgtcaatattgaggcagaacctccttttggggaaagtaatatagtaattggaattggagacaaagccttgaaaatcaactggtacaagaagggaagctcgattgggaagatgttcgaggccactgccagaggtgcaaggcgcatggccatcttgggagacacagcctgggactttggatcagtaggtggtgttttaaattcattagggaaaatggtgcaccaaatatttggaagtgcttacacggccctatttagtggagtctcctggataatgaaaattggaataggtgtccttttaacctggatagggttgaattcaaaaaacacttctatgtcattttcatgcattgtgataggaatcatcacactctatctgggagccgtggtgcaagct----------------------------------
+
+    </sequence>
+    
+    <sequence>
+    <taxon idref="AB600929_1988"/>
+    -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ttccacttgacttcacgagatggagagccgcgcatgattgtggggaagaatgaaagaggaaaatccctactttttaagacagcctctggaatcaacatgtgcacactcatagccatggatttgggagagatgtgtgatgacacggtcacttacaaatgccccctcattactgaagtggagcctgaagacattgactgctggtgcaacctcacatcgacgtgggtgacctacggaacgtgcaaccaagctggagagcacagacgcgataagagatcggtggcgttagctccccatgtcggcatgggactggacacacgcacccaaacctggatgtcggctgaaggagcttggagacaagtcgagaaggtagagacatgggcctttaggcacccagggttcacagtactagccctatttcttgcccattatataggcacttccttgacccagaaagtggtcattttcatactactaatgctggtcaccccatccatgacaatgagatgtgtgggagtaggaaacagagattttgtggaaggcctatcaggagctacgtgggttgacgtggtgcttgaacacggtgggtgtgtgactaccatggctaagaacaagcccacgctggatatagagctccagaagaccgaggccacccaactggcgaccctaaggaaactatgcattgagggaaaaattaccaacgtaacaaccgactcaaggtgccccacccaaggagaagcgattttacctgaggagcaggaccagaactacgtgtgtaagcacacatacgtggacagaggctggggaaacggttgtggtttgtttggcaagggaagcttggtaacatgcgcgaaatttcaatgtttggaatcaatagagggaaaagtggtgcagcatgagaacctcaaatacaccgtcatcatcacagtgcacacaggagaccaacaccaggtgggaaatgaaacgcagggagtcacggctgagataacaccccaggcatcaaccgtcgaagccatcttacctgaatatggaacccttgggctagaatgctcaccacggacaggtttggatttcaatgaaatgattttgttgacaatgaagaacaaagcatggatggtacatagacaatggttttttgacctacctctaccatggacatcaggggctacaacagaaacaccaacctggaataagaaagagcttcttgtgacattcaaaaacgcacacgcaaaaaaacaagaagtagtagtccttggatcgcaagagggagcaatgcacacagcactgacaggagctacagagatccaaacctcaggaggcataagtatttttgcggggcacttaaaatgcagactcaagatggacaaattggaactcaaggggatgagctatgcaatgtgtttaaatgcctttgtgttgaagaaagaagtctccgaaacacaacatgggacaatactcattaaagttgagtacaaaggggaagatgcaccttgcaagattcctttctccacggaggatggacaagggaaagcccacaatggcagactgatcacagccaacccagtggtgaccaagaaggaggagcctgtcaatattgaggcagaacctccttttggggaaagtaatatagtaattggaattggagacaaagccttgaaaatcaactggtacaagaagggaagctcgattgggaagatgttcgaggccactgccagaggtgcaaggcgcatggccatcttgggagacacagcctgggactttggatcagtaggtggtgttttaaattcattagggaaaatggtgcaccaaatatttggaagtgcttacacggccctatttagtggagtctcctggataatgaaaattggaataggtgtccttttaacctggatagggttgaattcaaaaaacacttctatgtcattttcatgcattgtgataggaatcatcacactctatctgggagccgtggtgcaagct----------------------------------
+
+    </sequence>
+    
+    <sequence>
+    <taxon idref="FJ375135_2005"/>
+    -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ttccacttgacttcacgagatggagagccgcgcatgattgtggggaagaatgaaagaggaaaatccctactttttaagacagcctctggaatcaacatgtgcacactcatagccatggacttaggagagatgtgtgatgacacggtcacttacaaatgcccccacattaccgaagtggaacctgaagacattgactgctggtgcaaccttacatcaacatgggtgacttacggaacgtgcaatcaagccggagagcgtagacgcgacaagagatcagtggcgttagctccccatgtcggcatgggactagacacacgcacccaaacctggatgtcggctgaaggagcttggaggcaagtcgagaaggtagagacatgggcccttaggcacccagggttcaccatactagccctatttcttgcccattacataggcacatccttgacccagaaggtggttatttttatactactaatgctggtcaccccatccatgacaatgagatgtgtgggagtaggaaacagagattttgtggaaggtctatcaggagctacgtgggttgacgtggtgctcgagcacggggggtgtgtgactaccatggctaagaacaagccaacgttggatatagagcttcagaagaccgaggccacccaattggcgaccctaaggaagctatgcattgaggggaaaattaccaacataacaactgactcaagatgtcctacccaaggggaagcggttttgcctgaggagcaggaccagaactacgtgtgtaagcatacatacgtagacagaggctgggggaacggatgtggtttgtttggcaagggaagcttggtaacatgtgcgaaatttcaatgcctggaaccaatagagggaaaagtggtgcagtatgagaacctcaaatacaccgtcatcatcacagtgcacacaggagatcaacatcaggtgggaaatgaaacgcagggagtcacggctgagataacacctcaggcatcaaccactgaagccatcttgcctgaatatggaaccctcgggctagaatgctcaccacggacaggtttggatttcaatgaaatgatcttgctaacaatgaagaacaaagcatggatggtacatagacaatggttttttgacctacctctaccatggacatcaggagctacaacggaaacaccaacctggaacaggaaggagcttcttgtgacatttaaaaatgcacatgcgaagaaacaagaagtggttgtccttggatcgcaagagggagcaatgcataccgcattgacaggagctacagaaatccaaaactcaggaggcacaagtatttttgcggggcatttaaaatgtagacttaagatggacaaattggaactcaaggggatgagctatgcaatgtgcacgaatacctttgtgttgaagaaagaagtctcagaaacgcagcatgggacaatactcattaaggtcgagtacaaaggggaagatgcaccttgcaagattcctttctccacagaggatggacaagggaaagctcacaatggcagactgattacagccaacccagtggtgactaagaaggaggagcctgtcaatattgaggctgaacctccttttggggaaagtaatatagtgattggaattggagacaaagccctgaaaatcaactggtacaggaagggaagctctattgggaagatgttcgaggccactgccagaggtgcaaggcgcatggccatcttgggagacacagcctgggactttggatcagtgggtggtgttctgaactcattaggcaaaatggtgcaccaaatattcggaagtgcttacacagccctattcagtggagtctcttgggtaatgaaaatcggaataggagttctcttgacttggatagggttgaattcaaaaaacacatccatgtcattttcatgcattgcgataggaatcatcacactctatctgggagctgtggtgcaagct----------------------------------
+
+    </sequence>
+    
+    <sequence>
+    <taxon idref="AB600926_1988"/>
+    -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ttccacttgacttcacgagatggagagccgcgcatgattgtggggaagaatgaaagaggaaaatccctgctttttaagacagcctctggaatcaacatgtgcacactcatagccatggatttgggagagatgtgtgatgacacggtcacttacaaatgccccctcattactgaagtggagcctgaagacattgactgctggtgcaaccttacatcgacgtgggtgacctacggaacgtgcaaccaagctggagagcatagacgcgataagagatcggtggcattagctccccatgtcggcatgggactggacacacgcacccaaacctggatgtcggctgaaggagcttggagacaagtcgagaaggtagagacatgggcctttaggcacccagggttcacaatactagccctatttcttgcccattacataggcacttccttgacccagaaagtggtcattttcatactactaatgctggtcaccccatccatgacaatgagatgtgtgggagtaggaaacagagattttgtggaaggcctatcaggggctacgtgggttgacgtggtgctcgaacacggtgggtgtgtgactaccatggctaagaacaagcccacgctggatatagagctccagaagaccgaggccacccaactggcgaccctaaggaaactatgcattgagggaaaaattaccaacgtaacaaccgactcaaggtgccccacccaaggggaagcgattttacctgaggagcaggaccagaactacgtgtgtaagcacacatacgtggacagaggctggggaaacggttgtggtttgtttggcaagggaagcttggtaacatgcgcgaaatttcaatgtttggaatcaatagagggaaaagtggtgcagcatgagaacctcaaatacactgtcatcatcacagtgcacacaggagaccaacaccaggtaggaaatgaaacgcagggagtcacggctgagataacaccccaggcatcaaccgtcgaagccatcttacctgaatatggaacccttgggctagaatgctcaccacggacaggtttggatttcaatgaaatgattttgttgacaatgaagaacaaagcatggatggtacatagacaatggttttttgacctacctctaccatggacatcaggggctacaacagaaacaccaacctggaataagaaagagcttcttgtgacattcaaaaacgcacacgcaaaaaaacaagaagtagtagtccttggatcgcaagagggagcaatgcacacagcactgacaggagctacagagatccaaacctcaggaggcacaagtatttttgcggggcacttaaaatgcagactcaagatggacaaattggaactcaaggggatgagctatgcaatgtgcttaaatgccttcgtgttgaagaaagaagtctccgaaacacaacatgggacgatactcattaaggttgagtacaaaggggaagatgcaccttgcaagattcctttctccacggaggatggacaagggaaagcccacaatggcagactgatcacagctaacccagtggtgaccaagaaggaggagcctgtcaatattgaggcagaacctccttttggggaaagtaacatagtaattggaattggagacaaagccttgaaaatcaactggtacaagaagggaagctcgattgggaagatgttcgaggccactgccagaggtgcaaggcgcatggccatcttgggagacacagcctgggactttggatcagtaggtggtgttttaaattcattagggaaaatggtgcaccaaatatttggaagtgcttacacggccctatttagtggagtctcctggataatgaaaattggaataggtgtccttttaacctggatagggctgaattcaaagaacacttctatgtcattttcatgcattgtgataggaatcatcacactctatctgggagccgtggtgcaagct----------------------------------
+
+    </sequence>
+    
+    <sequence>
+    <taxon idref="FJ389906_2007"/>
+    ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------tcagtggcgttagctccccatgtcggcatgggactggacacacgcacccaaacctggatgtcggctgaaggagcttggaggcaagtcgagaaggtagagacatgggcccttaggcacccagggttcaccatactagccctatttcttgcccattacataggcacttccctgacccagaaggtggttatttttatactactaatgctggtcaccccatccatgacaatgagatgtgtgggagtaggaaacagagattttgtggaaggtctatcaggagctacgtgggttgacgtggtcctcgagcacggggggtgtgtgaccaccatggctaagaacaagcccacattggatatagagcttcagaagaccgaggccacccaactggcgaccctaaggaagctatgcattgaggggaaaatcaccaacataacaactgactcaagatgtcctacccaaggggaagcggttttgcctgaggagcaggaccagaactacgtgtgtaagcatacatacgtagacagaggctgggggaacggatgtggtttgtttggcaagggaagcttggtaacatgtgcgaaatttcaatgcctggaaccaatagagggaaaagtggtgcaatatgagaacctcaaatacaccgtcatcatcacagtgcacacaggagaccaacaccaggtgggaaatgaaacgcagggagtcacggctgagataacacctcaggcatcaaccactgaagccatcttgcctgaatatggaacccttgggctagaatgctcaccacggacaggtttggacttcaatgaaatgatcttgctaacaatgaaaaacaaagcatggatggtacatagacaatggttttttgacctacctctaccatggacatcaggagctacaacggaaacaccaacctggaacaggaaggagcttcttgtgacatttaaaaacgcacatgcgaaaaaacaagaagtagttgtccttggatcgcaagagggagcaatgcataccgcattgacaggagccacagaaatccaaaactcaggaggcacaagcatttttgcggggcacttaaaatgtagacttaagatggacaaattggaactcaaggggatgagctatgcaatgtgcacgaacacctttgtgttgaagaaagaagtctcagaaacgcagcatgggacaatactcatcaaggtcgagtacaaaggggaagatgcaccttgcaagattcctttctccacagaggatgaacaagggaaagctcacaatggcagactgattacagccaacccagtggtgactaagaaggaggagcctgtcaatattgaggctgaacctccttttggggaaagtaatatagtaattggaattggagacaacgccttgaaaatcaactggtacaagaagggaagctctattgggaagatgttcgaggccactgctagaggtgcaaggcgcatggccatcttgggagacacagcttgggactttggatcagtgggtggtgttctgaactcattaggcaaaatggtgcaccaaatattcggaagtgcttacacagccctattcagtggggtctcttgggtaatgaaaattggaataggagttctcttgacttggatagggttgaattcaaaaaacacatccatgtcattttcatgcattgcgataggaattattacactctatctgggagctgtggtgcaagct----------------------------------
+
+    </sequence>
+    
+    <sequence>
+    <taxon idref="EU259606_2002"/>
+    -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ttccacttgacttcacgagatggagagccgcgcatgattgtggggaagaatgaaagaggaaaatccctactttttaagacagcctctggaatcaacatgtgcacactcatagccatggacttgggagagatgtgtgatgacacggtcacttacaaatgcccccacattaccgaagtggaacctgaagacattgactgctggtgcaaccttacatcaacatgggtgacttacggaacgtgcaatcaagccggagagcgtagacgcgacaagagatcagtggcgttagctccccatgtcggcatgggactagacacacgcacccaaacctggatgtcggctgaaggagcttggaggcaagtcgagaaggtagagacatgggcccttaggcacccagggttcaccatactagccctatttcttgcccattacataggcacatccttgacccagaaggtggttatttttatactactaatgctggtcaccccatccatgacaatgagatgtgtgggagtaggaaacagagattttgtggaaggtctatcaggagctacgtgggttgacgtggtgctcgagcacggggggtgtgtgactaccatggctaagaacaagccaacgttggatatagagcttcagaagaccgaggccacccaattggcgaccctaaggaagctatgcattgaggggaaaattaccaacataacaactgactcaagatgtcctacccaaggggaagcggttttgcctgaggagcaggaccagaactacgtgtgtaagcatacatacgtagacagaggctgggggaacggatgtggtttgtttggcaagggaagcttggtaacatgtgcgaaatttcaatgcctggaaccaatagagggaaaagtggtgcagtatgagaacctcaaatacaccgtcatcatcacagtgcacacaggagatcaacaccaggtgggaaatgaaacgcagggagtcacggctgagataacacctcaggcatcaaccactgaagccatcttgcctgaatatggaacccttgggctagaatgctcaccacggacaggtttggatttcaatgaaatgatcttgctaacaatgaagaacaaagcatggatggtacatagacaatggttttttgacctacctctaccatggacatcaggagctacaacggaaacaccaacctggaacaggaaggagcttcttgtgacatttaaaaacgcacatgcgaagaaacaagaagtggttgtccttggatcgcaagagggagcaatgcataccgcattgacaggagccacagaaatccaaaactcaggaggcacaagtatttttgcagggcatttaaaatgtagacttaagatggacaaattggaactcaaggggatgagctatgcaatgtgcacgaatacctttgtgttgaagaaagaagtctcagaaacgcagcatgggacaatactcattaaggtcgagtacagaggggaagatgcaccttgcaagattcctttctccacagaggatggacaagggaaagctcacaatggcagactgattacagccaacccagtggtgactaagaaggaggagcctgtcaatatcgaggctgaacctccttttggggaaagtaatatagtgattggaattggagacaacgccttgaaaattcactggtacaggaaggggagctctattgggaagatgttcgaggccactgccagaggtgcaaggcgcatggccattttgggagacacagcttgggactttggatcagtgggtggtgttctgaactcattaggcaaaatggtgcaccaaatattcggaagtgcttacacagccctattcagtggagtctcttgggtaatgaaaatcggaataggagttctcttgacttggatagggttgaattcaaaaaacacatccatgtcattttcatgcattgcgataggaatcattacactctatctgggagctgtggtgcaagct----------------------------------
+
+    </sequence>
+    
+    <sequence>
+    <taxon idref="AB600927_1988"/>
+    -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ttccatttgacttcacgagatggagagccgcgcatgattgtggggaagaatgaaagaggaaaatccctactttttaagacagcctctgggatcaacatgtgcacactcatagccatggatttgggagagatgtgtgatgacacggtcacttacaaatgccccctcattactgaagtggagcctgaagacattgactgctggtgcaacctcacatcgacgtgggtgacctacggaacgtgcaaccaagctggagagcatagacgcgataaaagatcggtggcgttagctccccatgtcggcatgggactggacacacgcacccaaacctggatgtcggccgaaggagcttggagacaagtcgagaaggtagagacatgggcctttaggcacccagggttcacaatactagccctatttcttgcccattacataggcacttccttgacccaaaaagtggtcattttcatactactaatgctggtcactccatccatgacaatgagatgtgtgggagtaggaaacagagattttgtggaaggcctatcaggagctacgtgggttgacgtggtgctcgaacacggtgggtgtgtgactaccatggctaagaacaagcccacgctggatatagagctccagaagaccgaggccacccaactggcgaccctaaggaaactatgcattgagggaaaaattaccaacgtaacaaccgactcaaggtgccccacccaaggggaagcgattttacctgaggagcaagaccagaactacgtgtgtaagcacacatacgtggacagaggctggggaaacggttgtggtttgtttggcaagggaagcttggtaacatgcgcgaaattccaatgtttggaatcaatagagggaaaagtggtgcagcatgagaacctcaaatacaccgtcatcatcacagtgcacacaggagaccaacaccaggtgggaaatgaaacgcagggagtcacggctgagataacaccccaggcatcaaccgtcgaagccatcttacctgaatatggaaccctcgggctagaatgctcaccacggacaggtttggatttcaatgaaatgattttgttgacaatgaagaacaaagcatggatggtacatagacaatggttttttgacctacctctaccatggacatcaggggccacaacagaaacaccaacctggaataagaaagagcttcttgtgacattcaaaaacgcacacgcaaaaaaacaagaagtagtagtcctcggatcgcaagagggagcaatgcacacagcactgacaggagctacagagatccaaacctcaggaggcacaagtatttttgcggggcacttaaaatgcagactcaagatggacaaattggaactcaaggggatgagctatgcaatgtgcttaaatgcctttgtgttgaagaaagaagtctccgaaacacaacatgggacaatactcattaaggttgagtacaaaggggaagatgcaccttgcaagattcctttctccacggaggatggacaagggaaagcccacaatggcagactgatcacagctaacccagtggtgaccaagaaggaagagcctgtcaatattgaggcagaacctccttttggggaaagtaacatagtaattggaattggagacaaagccttgaaaatcaactggtacaagaagggaagctcgattgggaagatgttcgaggccactgccagaggtgcaaggcgcatggccatcttgggagacacagcctgggactttggatcagtaggtggtgttttaaattcattagggaaaatggtgcaccaaatatttggaagtgcttacacggccctatttagtggagtctcctggataatgaaaattggaataggtgtccttttaacctggatagggttgaattcaaaaaacacttccatgtcattttcatgcattgtgataggaatcatcacactctatctgggagccgtggtgcaagct----------------------------------
+
+    </sequence>
+    
+    <sequence>
+    <taxon idref="JX070132_2011"/>
+    -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------tggctagatggggaaccttcaagaagtcgggggccattaaggtcttgaaaggcttcaagaaggagatctcaaacatgctgagcataatcaacaaacggaaaaagacatcactctgtttcatgatgatattgccagcagcacttgctttccacttgacttcacgagatggagagccgcgcatgattgtggggaagaatgaaagaggaaaatccctactttttaagacagcctctggaattaacatgtgcacactcatagccatggatttgggagagatgtgtgatgacacggtcacttacaaatgcccccacattaccgaagtggaacctgaagacattgactgctggtgcaaccttacatcaacatgggtgacttatggaacatgcaatcaagctggagagcatagacgcgacaagagatcagtggcgttagctccccatgtcggcatgggattggacacacgcacccaaacctggatgtcggctgaaggagcttggagacaagtcgagaaggtagagacatgggcccttaggcacccagggtttaccatactagccctatttctcgcccattacataggcacttccttgacccagaaggtggttattttcatattattaatgttggtcaccccatccatgacaatgagatgtgtgggagtaggaaacagagattttgtggaagggctatcaggagctacgtgggttgacgtggtgctcgagcacggggggtgtgtgactaccatggctaagaacaagcccacgctggatatagagcttcagaagaccgaggccacccaactggcgaccctaagaaagctatgcattgaggggaaaattaccaacataacaactgactcaagatgtcccacccaaggggaagcggttttgcctgaggagcaggaccagaactacgtgtgtaagcacacatacgtggacagaggctgggggaacggttgtggtttgtttggcaaaggaagcttggtaacatgtgcgaaatttcaatgcctggaaccaatagagggaaaagtggtgcaatatgagaacctcaaataccccgttatcattacagtgcacacaggagaccaacaccaggtgggaaatgaaacgcaaggagtcacggctgagataacacctcaggcatcaaccactgaagccatcttgcctgaatatggaacccttgggctagaatgctcaccacggacaggtttggatttcaatgaaatgatcttactaacaatgaagaacaaagcatggatggtacatagacaatggttctttgacctacctctaccatgggcatcaggagcaacaacagaaacaccaacctggaacaggaaggagcttcttgtgacattcaagaacgcacatgcgaaaaaacaagaagtagttgttcttggatcgcaagagggagcaatgcataccgcactgacgggagctacagaaatccaaaactcaggaggcacaagcattttcgcggggcacttaaaatgtagacttaagatggacaaattggaactcaaggggatgagctatgcaatgtgcacgaataccttcgtgttgaaaaaagaggtctcagaaacgcagcacgggacaatactcattaaggttgagtacaaaggggaagatgcaccttgcaagattcccttttccacagaggatggacaagggaaagctcacaatggcagactgatcacagccaaccctgtggtgactaagaaggaggagcccgtcaatattg---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+    </sequence>
+    
+    <sequence>
+    <taxon idref="EU570160_2003"/>
+    -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------atgagatgtgtgggagtaggaaacagagattttgtggaaggcctatcgggagctacgtgggttgacgtggtgctcgagcacggtgggtgtgtgactaccatggctaagaacaagcccacgctggacatagagcttcagaagaccgaggccactcaactggcgaccctaaggaagctatgcattaagggaaaaattaccaacataacaaccgactcaagatgtcccacccaaggggaagcgattttacctgaggagcaggaccagaactacgtgtgtaagcatacatacgtggacagaggctggggaaacggttgtggtttgtttggcaagggaagcttggtgacatgcgcgaaatttcaatgtttacaatcaatagagggaaaagtggtgcaacatgagaacctcaaatacaccgtcatcatcacagtgcacacaggagaccaacaccaggtgggaaatgaaacgcagggagttacggctgagataacatcccaggcatcaaccgctgaagccattttacctgaatatggaaccctcgggctagaatgctcaccacggacaggtttggatttcaatgaaatgattttattgacaatgaagaacaaagcatggatggtacatagacaatggttctttgacttacccctaccatggacatcaggagctacaacagaaacaccaacttggaacaggaaagagcttcttgtgacatttaaaaatgcacatgcaaaaaagcaagaagtagttgtccttggatcacaagagggagcaatgcatacagcactgacaggagctacagagatccaaacctcaggaggcacaagtatttttgcggggcacttaaaatgtagactcaagatggacaaattgaaactcaaggggatgagctatgcaatgtgcttgaatacctttgtgttgaagaaagaagtctccgaaacgcagcatgggacaatactcattaaggttgagtacaaaggggaagatgcaccctgcaagattcctttctccacggaggatggacaagggaaagctcacaatggcagactgatcacagccaatccagtggtgaccaagaaggaggagcctgtcaacattgaggctgaacctccttttggggaaagtaatatagtaattggaattggagacaaagccctgaaaatcaactggtacaggaagggaagctcgattgggaagatgttcgaggccactgccagaggtgcaaggcgcatggccatcttgggagacacagcctgggactttggatcagtgggtggtgttttgaattcattagggaaaatggtccaccaaatatttgggagtgcttacacagccctatttagtggagtctcctggataatgaaaattggaataggtgtcctcttaacctggatagggttgaattcaaaaaacacttctatgtcattttcatgcattgcgataggaatcattacactctatctgggagtcgtggtgcaagct----------------------------------
+
+    </sequence>
+    
+    <sequence>
+    <taxon idref="AB600930_1988"/>
+    -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ttccatttgacttcacgagatggagagccgcgcatgattgtggggaagaatgaaagaggaaaatccctactttttaagacagcctctgggatcaacatgtgcacactcatagccatggatttgggagagatgtgtgatgatacggtcacttacaaatgccccctcattactgaagtggagcctgaagacattgactgctggtgcaacctcacatcgacgtgggtgacttacggaacgtgcaaccaagctggagagcatagacgcgataaaagatcggtggcgttagctccccatgtcggcatgggactggacacacgtactcaaacctggatgtcggccgaaggagcttggagacaagtcgagaaggtagagacatgggcctttaggcacccagggttcacaatactagccctatttcttgcccattacataggcacttccttgacccaaaaagtggtcattttcatactgctaatgctggtcactccatccatgacaatgagatgtgtgggagtaggaaacagagattttgtggaaggcctatcaggagctacgtgggttgacgtggtgctcgaacacggtgggtgtgtgactaccatggctaagaacaagcccacgctggatatagagctccagaagactgaggccacccaactggcgaccctaaggaaactatgcattgagggaaaaattaccaacgtaacaaccgactcaaggtgccccacccaaggggaagcgattttacctgaggagcaggaccagaactacgtgtgtaagcacacatacgtggacagaggctggggaaacggttgtggtttgtttggcaagggaagcttggtaacatgcgcgaaatttcaatgtttggaatcaatagagggaaaagtggtgcagcatgagaacctcaaatacaccgtcatcatcacagtgcacacaggagaccaacaccaggtgggaaatgaaacgcagggagtcacggctgagataacaccccaggcatcaaccgtcgaagccatcttacctgaatatggaaccctcgggctagaatgctcaccacggacaggtttggatttcaatgaaatgattttgttgacaatgaagaacaaagcatggatggtacatagacaatggttttttgacctacctctaccatggacatcaggggccacaacagaaacaccaacctggaataagaaagagcttcttgtgacattcaaaaacgcacacgcaaaaaaacaagaagtagtagtcctcggatcgcaagagggagcaatgcacacagcactgacaggagctacagagatccaaacctcaggaggcacaagtatttttgcggggcacttaaaatgcagactcaagatggacaaattggaactcaaggggatgagctatgcaatgtgcttaaatgcctttgtgttgaagaaagaagtctccgaaacacaacatgggacaatactcattaaggttgagtacaaaggggaagatgcaccttgcaagattcctttctccacggaggatggacaagggaaagcccacaatggcagactgatcacagctaacccagtggtgaccaagaaggaagagcctgtcaatattgaggcagaacctccttttggggaaagtaacatagtaattggaattggagacaaagccttgaaaatcaactggtacaagaagggaagctcgattgggaagatgttcgaggccactgccagaggtgcaaggcgcatggccatcttgggagacacagcctgggactttggatcagtaggtggtgttttaaattcattagggaaaatggtgcaccaaatatttggaagtgcttacacggccctatttagtggagtctcctggataatgaaaattggaataggtgtccttttaacctggatagggttgaattcaaaaaacacttctatgtcattttcatgcattgtgataggaatcatcacactctatctgggagccgtggtgcaagct----------------------------------
+
+    </sequence>
+    
+    <sequence>
+    <taxon idref="JX070130_2011"/>
+    -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------tggctagatggggaaccttcaagaagtcgggggccattaaggtcttgaaaggcttcaagaaggagatctcaaacatgctgagcataatcaacaaacggaaaaagacatcactctgtttcatgatgatattgccagcagcacttgctttccacttgacttcacgagatggagagccgcgcatgattgtggggaagaatgaaagaggaaaatccctactttttaagacagcctctggaattaacatgtgcacactcatagccatggatttgggagagatgtgtgatgacacggtcacttacaaatgcccccacattaccgaagtggaacctgaagacattgactgctggtgcaaccttacatcaacatgggtgacttatggaacatgcaatcaagctggagagcatagacgcgacaagagatcagtggcgttagctccccatgtcggcatgggattggacacacgcacccaaacctggatgtcggctgaaggagcttggagacaagtcgagaaggtagagacatgggcccttaggcacccagggtttaccatactagccctatttctcgcccattacataggcacttccttgacccagaaggtggttattttcatattattaatgttggtcaccccatccatgacaatgagatgtgtgggagtaggaaacagagattttgtggaagggctatcaggagctacgtgggttgacgtggtgctcgagcacggggggtgtgtgactaccatggctaagaacaagcccacgctggatatagagcttcagaagaccgaggccacccaactggcgaccctaagaaagctatgcattgaggggaaaattaccaacataacaactgactcaagatgtcccacccaaggggaagcggttttgcctgaggagcaggaccagaactacgtgtgtaagcacacatacgtggacagaggctgggggaacggttgtggtttgtttggcaaaggaagcttggtaacatgtgcgaaatttcaatgcctggaaccaatagagggaaaagtggtgcaatatgagaacctcaaatacaccgttatcattacagtgcacacaggagaccaacaccaggtgggaaatgaaacgcagggagtcacggctgagataacacctcaggcatcaaccactgaagccatcttgcctgaatatggaacccttgggctagaatgctcaccacggacaggtttggatttcaatgaaatgatcttactaacaatgaagaacaaagcatggatggtacatagacaatggttctttgacctacctctaccatgggcatcaggagcaacaacagaaacaccaacctggaacaggaaggagcttcttgtgacattcaagaacgcacatgcgaaaaaacaagaagtagttgttcttggatcgcaagagggagcaatgcataccgcactgacgggagctacagaaatccaaaactcaggaggcacaagcattttcgcggggcacttaaaatgtagacttaagatggacaaattggaactcaaggggatgagctatgcaatgtgcacgaataccttcgtgttgaaaaaagaggtctcagaaacgcagcacgggacaatactcattaaggttgagtacaaaggggaagatgcaccttgcaagattcccttttccacagaggatggacaagggaaagctcacaatggcagactgatcacagccaaccctgtggtgactaagaaggaggagcccgtcaatattg---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+    </sequence>
+    
+    <sequence>
+    <taxon idref="FJ389907_2003"/>
+    ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------tcagtggcgttagctccccatgtcggcatgggactggacacacgcacccaaacctggatgtcggctgaaggagcttggaggcaagtcgagaaggtagagacatgggcccttaggcacccagggttcaccatactagccctatttcttgcccattacataggcacttccttgacccagaaggtggttatttttatactactaatgctggtcaccccatccatgacaatgagatgtgtgggagtaggaaacagagattttgtggaaggtctatcaggagctacgtgggttgacgtggtgctcgagcacggggggtgtgtgaccaccatggctaagaacaagcccacgttggatatagagcttcagaagaccgaggccacccaactggcgaccctaaggaagctatgcattgaggggaaaatcaccaacataacaactgactcaagatgtcctacccaaggggaagcggttttgcctgaggagcaggaccagaactacgtgtgtaagcatacatacgtagacagaggctgggggaacggatgtggtttgtttggcaagggaagcttggtaacatgtgcgaaatttcaatgcctggaaccaatagagggaaaagtggtgcaatatgagaacctcaaatacaccgtcatcatcacagtgcacacaggagaccaacaccaggtgggaaatgaaacgcagggagtcacggctgagataacacctcaggcatcaaccactgaagccatcttgcctgaatatggaacccttgggctagaatgctcaccacggacaggtttggacttcaatgaaatgatcttgctaacaatgaagaacaaagcatggatggtacatagacaatggttttttgacctacctctaccatggacatcaggagctacaacggaaacaccaacctggaacaggaaggagcttcttgtgacatttaaaaacgcacatgcgaaaaaacaagaagtagttgtccttggatcgcaagagggagcaatgcataccgcattgacaggagccacagaaatccaaaactcaggaggcacaagcatttttgcggggcacttaaaatgtagacttaagatggacaaattagaactcaaggggatgagctatgcaatgtgcacgaatacctttgtgttgaagaaagaagtctcagaaacgcagcatgggacaatactcatcaaggtcgagtacaaaggggaagatgcaccttgcaagattcctttctccacagaggatgaacaagggaaagctcacaatggcagactgattacagccaacccagtggtgactaagaaggaggagcctgtcaatatcgaggctgaacctccttttggggaaagtaatatagtaattggaattggagacaacgccttgaaaatcaactggtacaagaagggaagctctattgggaagatgttcgaggccactgctagaggtgcaaggcgcatggccatcttgggagacacagcttgggactttggatcagtgggtggtgttctgaactcattaggcaaaatggtgcaccaaatattcggaagtgcttacacagccctattcagtggggtctcttgggtaatgaaaattggaataggagttctcttgacttggatagggttgaattcaaaaaacacatccatgtcattttcatgcattgcgataggaatcattacactctatctgggagctgtggtgcaggct----------------------------------
+
+    </sequence>
+    
+    <sequence>
+    <taxon idref="FJ389912_2004"/>
+    ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------tcagtggcgttagctccccatgtcggcatgggactagacacacgcacccaaacctggatgtcggctgaaggagcttggaggcaagtcgagaaggtagagacatgggcccttaggcacccagggttcaccatactagccctatttcttgcccattacataggcacatccttgacccagaaggtggttatttttatactactaatgctggtcaccccatccatgacaatgagatgtgtgggagtaggaaacagagattttgtggaaggtctatcaggagccacgtgggttgacgtggtgctcgagcacggggggtgtgtgactaccatggctaagaacaagccaacgttggatatagagcttcagaagaccgaggccacccaattggcgaccctaaggaagctatgcattgaggggaaaattaccaacataacaactgactcaagatgtcctacccaaggggaagcggccttgcctgaggagcaggaccagaactacgtgtgtaagcatacatacgtagacagaggctgggggaacggatgtggtttgtttggcaagggaagcttggtaacatgtgcgaaatttcaatgcctggaaccaatagagggaaaagtggtgcaatatgagaacctcaaatacaccgtcatcatcacagtgcacacaggagatcaacaccaggtgggaaatgaaacgcagggagtcacggctgagataacacctcaggcatcgaccactgaagccatcttgcctgaatatggaacccttgggctagaatgctcaccacggacaggtttggatttcaatgaaatgatcttgctaacaatgaagaacaaagcatggatggtacatagacaatggttttttgacctacctctaccatggacatcaggagctacaacggaaacaccaacctggaacaggaaggagcttcttgtgacattcaaaaacgcacatgcgaagaaacaagaagtagttgtccttggatcgcaagagggagcaatgcataccgcattgacaggagctacagaaatccaaaactcaggaggcacaagtatttttgcggggcacttaaaatgcagacttaagatggacaaattggaactcaaggggatgagctatgcaatgtgcacgaatacctttgtgttgaagaaagaagtctcagaaacgcagcatgggacaatactcattaaggtcgagtacaaaggggaagatgtaccttgcaagattcctttctccacagaggatggacaagggaaagctcacaatggcagactgattacagccaacccagtggtgactaagaaggaggagcctgtcaatattgaggctgaacctccttttggggaaagcaatatagtgattggaattggagacaacgccttgaaaatcaactggtataagaagggaagctctattgggaagatgttcgaggccactgccagaggtgcaaggcgcatggccatcttgggagacacagcttgggactttggatcagtgggtggtgttctgaactcattaggcaaaatggtgcatcaaatattcggaagtgcttacacagccctattcagtggagtctcttgggtaatgaaaattggaataggagttctcttgacttggatagggttgaattcaaaaaacacatccatgtcattttcatgcattgcgataggaatcattacactctatctgggagctgtggtgcaagct----------------------------------
+
+    </sequence>
+    
+    <sequence>
+    <taxon idref="JX070124_2010"/>
+    -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------tggccagatggggaaccttcaagaagtcgggggccattaaggtcctgaaaggcttcaagaaggagatttcaaacatgttgagcataatcaacaaacggaaaaagacatcgctctgtctcatgatgatattgccagcagcacttgctttccacttgacttcacgagatggagagccgcgcatgattgtggggaagaatgaaagaggaaagtccctactttttaagacagcctctggaatcaacatgtgcacactcatagccatggacttgggagagatgtgtgatgacacggtcacttacaaatgcccccacattaccgaagtggaacctgaagacattgactgctggtgcaaccttacatcaacatgggtgacttatggaacgtgtaatcaagctggagagcatagacgcgacaagagatcagtggcgttagctccccatgtcggcatgggactggacacacgcacccaaacctggatgtcggctgaaggagcttggagacaagtcgagaaggtagagacatgggcccttaggcacccagggttcaccatactagccctatttcttgcccattacataggcacttccttgacccagaaggtggttatttttatactactaatgctggtcaccccatccatgacaatgagatgtgtgggagtgggaaacagagattttgtggaaggtctgtcaggagctacgtgggttgacgtggtgctagagcacggggggtgtgtgaccaccatggctaagaacaagcccacgctggatatagagcttcagaagaccgaggccacccaactggcgaccctaaggaagctatgcattgaggggaaaattaccaacataacgactgactcaagatgtcccacccaaggggaagcggttttgcctgaggagcaggaccagaactacgtgtgtaagcatacatacgtagacagaggctgggggaacggttgtggtttgtttggcaagggaagcttggtaacatgtgcgaaatttcaatgcctggaaccgatagagggaaaagtggtgcaatatgagaacctcaaatacaccgtcatcattacagtgcacacaggagaccaacaccaggtgggaaatgaaacgcagggagtcacggctgagataacgcctcaggcatcaaccactgaagccatcttgcctgaatatggaacccttgggctagaatgctcaccacggacaggtttggacttcaatgaaatgatcttactaacaatgaagaacaaagcatggatggtacatagacaatggttctttgacctacctctaccatggacatcaggagctacaacagaaacaccaacttggaacaggaaggagctccttgtgacattcaaaaatgcacatgcgaaaaaacaagaagtagttgtccttggatcgcaagagggagcaatgcataccgcactgacaggagccacagaaatccaaaactcaggaggcacaagcatttttgcggggcacttaaagtgtagacttaagatggacaaattggaactcaaggggatgagctatgcaatgtgcacgaatacctttgtgttgaagaaagaagtctcagaaacgcagcatgggacaatactcattaaggttgagtacaaaggggaagatgcaccttgcaagattcctttctccacagaggatggacaggggaaagctcacaatggcagactgatcacagccaacccagtggtgactaagaaggaggagcctgttaacattg---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+    </sequence>
+    
+    <sequence>
+    <taxon idref="FJ389910_2004"/>
+    ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------tcagtggcgttagctccccatgtcggcatgggactggacacacgcacccaaacctggatgtcggctgaaggagcttggaggcaagtcgagaaggtagagacatgggcccttaggcacccagggttcaccatactagccctatttcttgcccattacataggcacttccttgacccagaaggtggttatttttatactactaatgctggtcaccccatccatgacaatgagatgtgtgggagtaggaaacagagattttgtggaaggtctatcaggagctacgtgggttgacgtggtgctcgagcacggggggtgtgtgaccaccatggctaagaacaagcccacgttggatatagagcttcagaagaccgaggccacccaactggcgaccctaaggaagctatgcattgaggggaaaatcaccaacataacaactgactcaagatgtcctacccaaggggaagcggttttgcctgaggagcaggaccagaactacgtgtgtaagcatacatacgtagacagaggctgggggaacggatgtggtttgtttggcaagggaagcttggtaacatgtgcgaaatttcaatgcctggaaccaatagagggaaaagtggtgcaatatgagaacctcaaatacaccgtcatcatcacagtgcacacaggagaccaacaccaggtgggaaatgaaacgcagggagtcacggctgagataacacctcaggcatcaactactgaagccatcttgcctgaatatggaacccttgggctagaatgctcaccacggacaggtttggacttcaatgaaatgatcttgctaacaatgaagaacaaagcatggatggtacatagacaatggttttttgacctacctctaccatggacatcaggagctacaacggaaacaccaacctggaacaggaaggagcttcttgtgacatttaaaaacgcacatgcgaaaaaacaagaagtagttgtccttggatcgcaagagggagcaatgcataccgcattgacaggagccacagaaatccaaaactcaggaggcacaagcatttttgcggggcacttaaaatgtagacttaagatggacaaattagaactcaaggggatgagctatgcaatgtgcacgaatacctttgtgttgaagaaagaagtctcagaaacgcagcatgggacaatactcatcaaggtcgagtacaaaggggaagatgtaccttgcaagattcctttctccacagaggatggacaagggaaagctcacaatggcagactgattacagccaacccagtggtgactaagaaggaggagcctgtcaatattgaggctgaacctccttttggggaaagtaatatagtaattggaattggagacaacgccttgaaaatcaactggtacaagaagggaagctctattgggaagatgttcgaggccactgctagaggtgcaaggcgcatggccatcttgggagacacagcttgggactttggatcagtgggtggtgttctgaactcattaggcaaaatggtgcaccaaatattcggaagtgcttacacagccctattcagtggagtctcttgggtaatgaaaattggaataggagttctcttgacttggatagggttgaattcaaaaaacacatccatgtcattttcatgcattgcgataggaatcattacactctatctgggagctgtggtgcaagct----------------------------------
+
+    </sequence>
+    
+    <sequence>
+    <taxon idref="AB600933_1988"/>
+    -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ttccacttgacttcacgagatggagagccgcgcatgattgtggggaagaatgaaagaggaaaatccctactttttaagacagcctctggaatcaacatgtgcacactcatagccatggatttgggagagatgtgtgatgacacggtcacttacaaatgccccctcattactgaagtggagcctgaagacattgactgctggtgcaacctcacatcgacatgggtgacctacggaacgtgcaaccaagctggagagcacagacgcgataagagatcggtggcgttagctccccatgtcggcatgggactggacacacgcacccaaacctggatgtcggctgaaggagcttggagacaagtcgagaaggtagagacatgggcttttaggcacccagggttcacagtactagccctatttcttgcccattacataggcacttccttgacccagaaagtggtcattttcatactactaatgctggtcaccccatccatgacaatgagatgtgtgggagtaggaaacagagattttgtggaaggcctatcaggagctacgtgggttgacgtggtgcttgaacacggtgggtgtgtgactaccatggctaagaacaagcccacgctggatatagagctccagaagaccgaggccacccaactggcgaccctaaggaaactatgcattgagggaaaaatcaccaacgtaacaaccgactcaaggtgccccacccaaggagaagcgattttacctgaggagcaggaccagaactacgtgtgtaagcacacatacgtggacagaggctggggaaacggttgtggtttgtttggcaagggaagcttggtaacatgcgcgaaatttcaatgtttggaatcaatagagggaaaagtggtgcagcatgagaacctcaaatacaccgtcatcatcacagtgcacacaggagaccagcaccaggtgggaaatgaaacgcaaggagtcacggctgagataacaccccaggcatcaaccgtcgaagccatcttacctgaatatggaacccttgggctagaatgctcaccacggacaggtttggattttaatgaaatgattttgttgacaatgaagaacaaagcatggatggtacatagacaatggttttttgacctacctctaccatggacatcaggggctacaacagaaacaccaacctggaataagaaagagcttcttgtgacattcaaaaacgcacacgcaaaaaaacaagaagtagtagtccttggatcgcaagagggagcaatgcacacagcactgacaggagctacagagatccaaacctcaggaggcacaagtatttttgcggggcacttaaaatgcagactcaagatggacaaattggaactcaaggggatgagctatgcaatgtgtttaaatgcctttgtgttgaagaaagaagtctccgaaacacaacatgggacaatactcattaaagttgagtacaaaggggaagatgcaccttgcaagattcctttctccacggaggatggacaagggaaagcccacaatggcagactgatcacagccaacccagtggtgaccaagaaggaggagcctgtcaatattgaggcagaacctccttttggggaaagtaatatagtaattggaattggagacaaagccttgaaaatcaactggtacaagaagggaagctcgattgggaagatgttcgaggccactgccagaggtgcaaggcgcatggccatcttgggagacacagcctgggactttggatcagtaggtggtgttttaaattcattagggaaaatggtgcaccaaatatttggaagtgcttacacggccctatttagtggagtctcctggataatgaaaattggaataggtgtccttttaacctggatagggttgaattcaaaaaacacttctatgtcattttcatgcattgtgataggaatcatcacactctatctgggagccgtggtgcaagct----------------------------------
+
+    </sequence>
+    
+    <sequence>
+    <taxon idref="EU259607_2002"/>
+    -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ttccacttgacttcacgagatggagagccgcgcatgattgtggggaagaatgaaagaggaaaatccctactttttaagacagcctctggaatcaacatgtgcacactcatagccatggacttgggagagatgtgtgatgacacggtcacttacaaatgcccccacattaccgaagtggaacctgaagacattgactgctggtgcaaccttacatcaacatgggtgacttacggaacgtgcaatcaagccggagagcgtagacgcgacaagagatcagtggcgttagctccccatgtcggcatgggactagacacacgcacccaaacctggatgtcggctgaaggagcttggaggcaagtcgagaaggtagagacatgggcccttaggcacccagggttcaccatactagccctatttcttgcccattacataggcacatccttgacccagaaggtggttatttttatactactaatgctggtcaccccatccatgacaatgagatgtgtgggagtaggaaacagagattttgtggaaggtctatcaggagctacgtgggttgacgtggtgctcgagcacggggggtgtgtgactcccatggctaagaacaagccaacgttggatatagagcttcagaagaccgaggccacccaattggcgaccctaaggaagctatgcattgaggggaaaattaccaacataacaactgactcaagatgtcctacccaaggggaagcggttttgcctgaggagcaggaccagaactacgtgtgtaagcatacatacgtagacagaggctgggggaacggatgtggtttgtttggcaagggaagcttggtaacatgtgcgaaatttcaatgtctggaaccaatagagggaaaagtggtgcagtatgagaacctcaaatacaccgtcatcatcacagtgcacacaggagatcaacaccaggtgggaaatgaaacgcagggagtcacggctgagataacacctcaggcatcaaccactgaagccatcctgcctgaatatggaacccttgggctagaatgctcaccacggacaggtttggatttcaatgaaatgatcttgctaacaatgaagaacaaagcatggatggtacatagacaatggttttttgacctacctctaccatggacatcaggagctacaacggaaacaccaacctggaacaggaaggagcttcttgtgacatttaaaaacgcacatgcgaagaaacaagaagtggttgtccttggatcgcaagagggggcaatgcataccgcattgacaggagccacagaaatccaaaactcaggaggcacaagtatttttgcagggcatttaaaatgtagacttaagatggacaaattggaactcaaggggatgagctatgcaatgtgcacgaatacctttgtgttgaagaaagaagtctcagaaacgcagcatgggacaatactcattaaggtcgagtacagaggggaagatgcaccttgcaagattcctttctccacagaggatggacaagggaaagctcacaatggcagactgattacagccaacccagtggtgactaagaaggaggagcctgtcaatatcgaggctgaacctccttttggggaaagtaatatagtgattggaattggagacaacgccttgaaaattcactggtacaggaaggggagctctattgggaagatgttcgaggccactgccagaggtgcaaggcgcatggccatcttgggagacacagcttgggactttggatcagtgggtggtgttctgaactcattaggcaaaatggtgcaccaaatattcggaagtgcttacacagccctattcagtggagtctcttgggtaatgaaaatcggaataggagttctcttgacttggatagggttgaattcaaaaaacacatccatgtcattttcatgcattgcgataggaatcattacactctatctgggagctgtggtgcaagct----------------------------------
+
+    </sequence>
+    
+    <sequence>
+    <taxon idref="EF440434_2000"/>
+    gcttgcttaacgtagtactgacagttttttattagagagcagatctctgatgaacaaccaacggaaaaagacgggaaaaccgtctatcaatatgctgaaacgcgtgagaaaccgtgtgtcaactggatcacagttggcgaagagattctcaagaggattgctgaatggccaaggaccaatgaaattggttatggcgttcatagctttcctcagatttctagccattccaccgacagcgggaatcttggctagatggggaaccttcaagaagtcgggggctattaaggtcctgagaggcttcaagaaggagatctcaaatatgctgagcattatcaacaggcggaaaaagacatcgctctgtctcatgatgatgttaccagcaacacttgctttccacttgacttcacgagatggagagccgcgcatgattgtggggaagaatgaaagaggaaaatccctgcttttcaagacagcctctggaatcaacatgtgcacactcatagccatggatttgggagaaatgtgtgatgacacggtcacttacaaatgccccctcattactgaagtggagcctgaggacattgactgctggtgcaacctcacatcgacgtgggtgacctacggaacgtgcaaccaagctggagagcatagacgcgataagagatcggtggcgttagctccccatgtcggcatgggactggacacacgcacccaaacctggatgtcggctgaaggagcttggagacaagtcgagaaggtagagacatgggcctttaggcacccagggttcacaatactagccctatttcttgcccattacataggcacttccttgacccagaaagtggtcattttcatactactaatgttggtcaccccatccatgacaatgagatgtgtgggagtaggaaacagagattttgtggaaggcctatcaggagctacgtgggttgacgtggtgctcgaacacggtgggtgtgtgactaccatggctaagaacaagcccacgctggatatagagctccagaagaccgaggccacccaactagcaaccctaaggaaactatgcattgagggaaaaatcaccaacgtgacaaccgactcaaggtgccccacccaaggggaagcgattttacctgaggagcaggaccagaactacgtgtgtaagcacacatacgtggacagaggctggggaaacggttgtggtttgtttggcaagggaagcttggtaacatgcgcgaaatttcaatgtttggaatcaatagagggaaaagtggtgcagcatgagaacctcaaatacaccgtcatcatcacagtgcacacaggagaccaacaccaggtgggaaatgaaacgcagggagtcacggctgagataacaccccaggcatcaaccgtcgaagctgtcttacctgaatatggaacccttgggctagaatgctcaccacggacaggtttggattttaatgaaatgattttgttgacaatgaagaacaaagcatggatggtacacagacaatggttttttgacctacctctaccatggacatcaggggctacaacagaaacaccaacctggaataagaaagagcttcttgtgacattcaaaaacgcacacgcaaaaaaacaagaagtagtggtccttggatcgcaagagggagcaatgcacacagcactgacaggagctacagagatccaaacctcaggaggcacaagtatttttgcggggcacttaaaatgcagactcaagatggacaaattggaactcaaggggatgagctatgcaatgtgctcaaatgcctttgtgttgaagaaagaagtctctgaaacacaacatggaacaatactcattaaggtcgagtacaaaggggaagatgcaccttgcaagattcctttctccacggaggatggacaagggaaagcccacaatggcagactgatcacagccaacccagtggtgaccaagaaggaagagcctgtcaatattgaggcagaacctccctttggggaaagtaacataataattggaattggagacaaagccttgaaaatcaattggtacaagaagggaagctcgattgggaagatgttcgaggccactgccagaggtgcaaggcgcatggccatcttgggagacacagcctgggactttggatcagtaggtggtgttttaaattcattggggaaaatggtgcaccaaatatttggaagcgcttacacggccctttttagtggagtctcctggataatgaaaattggaataggtgtccttttaacttggatagggttgaattcaaaaaacacttctatgtcattttcatgcattgtgattggaatcatcacactctatctgggagccgtggtgcaagctgacatggggtgtgtcataaactggaaaggcaaag
+
+    </sequence>
+    
+    <sequence>
+    <taxon idref="JX070134_2011"/>
+    -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------tggctagatggggaaccttcaagaagtcgggggccattaaggtcttgaaaggcttcaagaaggagatctcaaacatgctgagcataatcaacaaacggaaaaagacatcactctgtctcatgatgatattgccagcagcacttgctttccacttgacttcacgagatggagagccgcgcatgattgtggggaagaatgaaagaggaaaatccctactttttaagacagcctctggaattaacatgtgcacactcatagccatggatttgggagagatgtgtgatgacacggtcacttacaaatgcccccacattaccgaagtggaacctgaagacattgactgctggtgcaaccttacatcaacatgggtgacttatggaacgtgcaatcaagctggagagcatagacgcgacaagagatcagtggcgttagctccccatgtcggcatgggattggacacacgcacccaaacctggatgtcggctgaaggagcttggagacaagtcgagaaggtagagacatgggcccttaggcacccagggtttaccatactagccctatttctcgcccattacataggcacttccttgacccagaaggtggttattttcatattattaatgttggtcaccccatccatgacaatgagatgtgtgggagtaggaaacagagattttgtggaagggctatcaggagctacgtgggttgacgtggtgctcgagcacggggggtgtgtgactaccatggctaagaacaagcccacgctggatatagagcttcagaagaccgaggccacccaactggcgaccctaagaaagctatgcattgaggggaaaattaccaacataacaactgactcaagatgtcccacccaaggggaagcggttttgcctgaggagcaggaccagaactacgtgtgtaagcacacatacgtggacagaggctgggggaacggttgtggtttgtttggcaaaggaagcttggtaacatgtgcgaaatttcaatgcctggaaccaatagagggaaaagtggtgcaatatgagaacctcaaatacaccgttatcattacagtgcacacaggagaccaacaccaggtgggaaatgaaacgcagggagtcacggctgagataacacctcaggcatcaaccactgaagccatcttgcctgaatatggaacccttgggctagaatgctcaccacggacaggtttggatttcaatgaaatgatcttactaacaatgaagaacaaagcatggatggtacacagacaatggttctttgacctacctctaccatgggcatcaggagcaacaacagaaacaccaacctggaacaggaaggagcttcttgtgacattcaagaacgcacatgcgaaaaaacaagaagtagttgttcttggatcgcaagagggagcaatgcataccgcactgacgggagctacagaaatccaaaactcaggaggcacaagcattttcgcggggcacttaaaatgtagacttaagatggacaaattggaactcaaggggatgagctatgcaatgtgcacgaataccttcgtgttgaaaaaagaggtctcagaaacgcagcacgggacaatactcattaaggttgagtacaaaggggaagatgcaccttgcaagattcccttttccacagaggatggacaagggaaagctcacaatggcagactgatcacagccaaccctgtggtgactaagaaggaggagcccgtcaatattg---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+    </sequence>
+    
+    <sequence>
+    <taxon idref="JX070122_2010"/>
+    -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------tggccagatggggaaccttcaagaagtcgggggccattaaggtcctgaaaggcttcaagaaggagatttcaaacatgttgagcataatcaacaaacggaaaaagacatcgctctgtctcatgatgatattgccagcagcacttgctttccacttgacttcacgagatggagagccgcgcatgattgtggggaagaatgaaagaggaaagtccctactttttaagacagcctctggaatcaacatgtgcacactcatagccatggacttgggagagatgtgtgatgacacggtcacttacaaatgcccccacattaccgaagtggaacctgaagacattgactgctggtgcaaccttacatcaacatgggtgacttatggaacgtgtaatcaagctggagagcatagacgcgacaagagatcagtggcgttagctccccatgtcggcatgggactggacacacgcacccaaacctggatgtcggctgaaggagcttggagacaagtcgagaaggtagagacatgggcccttaggcacccagggttcaccatactagccctatttcttgcccattacataggcacttccttgacccagaacgtggttatttttatactactaatgctggtcaccccatccatgacaatgagatgtgtgggagtgggaaacagagattttgtggaaggtctgtcaggagctacgtgggttgacgtggtgctagagcacggggggtgtgtgaccaccatggctaagaacaagcccacgctggatatagagcttcagaagaccgaggccacccaactggcgaccctaaggaagctatgcattgaggggaaaattaccaacataacgactgactcaagatgtcccacccaaggggaagcggttttgcctgaggagcaggaccagaactacgtgtgtaagcatacatacgtagacagaggctgggggaacggttgtggtttgtttggcaagggaagcttggtaacatgtgcgaaatttcaatgcctggaaccgatagagggaaaagtggtgcaatatgagaacctcaaatacaccgtcatcattacagtgcacacaggagaccaacaccaggtgggaaatgaaacgcagggagtcacggctgagataacgcctcaggcatcaaccactgaagccatcttgcctgaatatggaacccttgggctagaatgctcaccacggacaggtttggacttcaatgaaatgatcttactaacaatgaagaacaaagcatggatggtacatagacaatggttctttgacctacctctaccatggacatcaggagctacaacagaaacaccaacttggaacaggaaggagctccttgtgacattcaaaaatgcacatgcgaaaaaacaagaagtagttgtccttggatcgcaagagggagcaatgcataccgcactgacaggagccacagaaatccaaaactcaggaggcacaagcatttttgcggggcacttaaagtgtagacttaagatggacaaattggaactcaaggggatgagctatgcaatgtgcacgaatacctttgtgttgaagaaagaagtctcagaaacgcagcatgggacaatactcattaaggttgagtacaaaggggaagatgcaccttgcaagattcctttctccacagaggatggacaggggaaagctcacaatggcagactgatcacagccaacccagtggtgactaagaaggaggagcctgttaacattg---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+    </sequence>
+    
+    <sequence>
+    <taxon idref="AB600938_1988"/>
+    -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ttccacttgacttcacgagatggagagccgcgcatgattgtggggaagaatgaaagaggaaaatccctactttttaagacagcctctggaatcaacatgtgcacactcatagccatggatttgggagagatgtgtgatgacacggtcacttacaaatgccccctcattactgaagtggagcctgaagacattgactgctggtgcaacctcacatcgacatgggtgacctacggaacgtgcaaccaagctggagagcacagacgcgataagagatcggtggcgttagctccccatgtcggcatgggactggacacacgcacccaaacctggatgtcggctgaaggagcttggagacaagtcgagaaggtagagacatgggcctttaggcacccagggttcacagtactagccctatttcttgcccattacataggcacttccttgacccagaaagtggtcattttcatactactaatgctggtcaccccatccatgacaatgagatgtgtgggagtaggaaacagagattttgtggaaggcctatcaggagctacgtgggttgacgtggtgcttgaacacggtgggtgtgtgactaccatggctaagaacaagcccacgctggatatagagctccagaagaccgaggccacccaactggcgaccctaaggaaactatgcattgagggaaaaattaccaacgtaacaaccgactcaaggtgccccacccaaggagaagcgattttacctgaggagcaggaccagaactacgtgtgtaagcacacatacgtggacagaggctggggaaacggttgtggtttgtttggcaagggaagcttggtaacatgcgcgaaatttcaatgtttggaatcaatagagggaaaagtggtgcagcatgagaacctcaaatacaccgtcatcatcacagtgcacacaggagaccaacaccaggtgggaaatgaaacgcagggagtcacggctgagataacaccccaggcatcaaccgtcgaagccatcttacctgaatatggaacccttgggctagaatgctcaccacggacaggtttggatttcaatgaaatgattttgttgacaatgaagaacaaagcatggatggtacatagacaatggttttttgacctacctctaccatggacatcaggggctacaacagaaacaccaacctggaataagaaagagcttcttgtgacattcaaaaacgcacacgcaaaaaaacaagaagtagtagtccttggatcgcaagagggagcaatgcacacagcactgacaggagctacagagatccaaacctcaggaggcacaagtatttttgcggggcacttaaaatgcagactcaagatggacaaattggaactcaaggggatgagctatgcaatgtgtttaaatgcctttgtgttgaagaaagaagtctccgaaacacaacatgggacaatactcattaaagttgagtacaaaggggaagatgcaccttgcaagattcctttctccacggaggatggacaagggaaagcccacaatggcagactgatcacagccaacccagtggtgaccaagaaggaggagcctgtcaatattgaggcagaacctccttttggggaaagtaatatagtaattggaattggagacaaagccttgaaaatcaactggtacaagaagggaagctcgattgggaagatgttcgaggccactgccagaggtgcaaggcgcatggccatcttgggagacacagcctgggactttggatcagtaggtggtgttttaaattcattagggaaaatggtgcaccaaatatttggaagtgcttacacggccctatttagtggagtctcctggataatgaaaattggaataggtgtccttttaacctggatagggttgaattcaaaaaacacttctatgtcattttcatgcattgtgataggaatcatcacactctatctgggagccgtggtgcaagct----------------------------------
+
+    </sequence>
+    
+    <sequence>
+    <taxon idref="FJ389913_2006"/>
+    ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------tcagtggcgttagctccacatgtcggcatgggattagacacacgcacccaaacctggatgtcggctgaaggagcttggaggcaagtcgagaaggtagagacatgggcccttaggcacccagggttcaccatactagccctatttcttgcccattacataggcacatccttgacccagaaggtggttatttttatactactaatgctggtcaccccatccatgacaatgagatgtgtgggagtaggaaacagagattttgtggaaggtctatcaggagctacgtgggttgacgtggtgctcgagcacggggggtgtgtaactaccatggctaagaacaagccaacgttagatatagagcttcagaagaccgaggccacccaattggcgaccctaaggaagctatgcattgaggggaaaattaccaacataacaactgactcaagatgtcctacccaaggggaagcggctttgcctgaggagcaggaccagaactacgtgtgtaagcacacatacgtagacagaggctgggggaacggatgtggtttgtttggcaagggaagcttggtaacatgtgcgaaatttcaatgcctggaaccaatagagggaaaagtggtgcaatatgagaacctcaaatacaccgtcatcatcacagtgcacacaggagatcaacaccaggtgggaaatgaaacgcagggagtcacggctgagataacacctcaagcatcaaccactgaagccatcttgcctgaatatggaacccttgggctagaatgctcaccacggacaggtttggatttcaatgaaatgatcttgctaacaatgaagaacaaagcatggatggtacatagacaatggttttttgacctacctctaccatggacatcaggagctacaacggaaacaccaacctggaacaggaaggagcttcttgtgacattcaaaaacgcacatgcgaagaaacaagaagtagttgtccttggatcgcaagagggagcaatgcataccgcattaacaggagccacagaaatccaaaactcaggaggcacaagtatttttgcggggcacttaaaatgcagacttaagatggacaaattggaactcaaggggatgagctatgcaatgtgcacgaatacctttgtgttgaagaaagaagtctcagaaacgcagcatgggacaatactcattaaagtcgagtacaaaggggaagatgtaccttgcaagattcctttctccacagaggatggacaagggaaagctcacaatggcagactgattacagccaacccagtggtgactaagaaggaggagcctgtcaatattgaggctgaacctccttttggggaaagcaatatagtgattggaattggagacaacgccttgaaaatcaactggtacaagaagggaagctctattgggaagatgttcgaggccactgccagaggtgcaaggcgcatggccatcttgggagacacagcttgggactttggatcagtgggtggtgttctgaactcattaggcaaaatggtgcaccaaatattcggaagtgcttacacagccttattcagtggagtctcttgggtaatgaaaattggaataggagttctcttgacttggatagggttgaattcaaaaaacacatccatgtcattttcatgcattgcgataggaatcattacactctatctgggagctgtggtgcaagct----------------------------------
+
+    </sequence>
+    
+    <sequence>
+    <taxon idref="FJ389909_2002"/>
+    ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------tcagtggcgttagctccccatgtcggcatgggactggacacacgcacccaaacctggatgtcggctgaaggagcttggaggcaagtcgagaaggtagagacatgggcccttaggcacccagggttcaccatactagccctatttcttgcccattacataggcacttccttgacccagaaggtggttatttttatactactaatgctggtcaccccatccatgacaatgagatgtgtgggagtaggaaacagagattttgtggaaggtctatcaggagctacgtgggttgacgtggtgctcgagcacggggggtgtgtgaccaccatggctaagaacaagcccacgttggatatagagcttcagaagaccgaggccacccaactggcgaccctaaggaagctatgcattgaggggaaaatcaccaacataacaactgactcaagatgtcctacccaaggggaagcggttttgcctgaggagcaggaccagaactacgtgtgtaagcatacatacgtagacagaggctgggggaacggatgtggtttgtttggcaagggaagcttggtaacatgtgcgaaattccaatgcctggaaccaatagagggaaaagtggtgcaatatgagaacctcaaatacacagtcatcatcacagtgcacacaggagaccaacaccaggtgggaaatgaaacgcagggagtcacggctgagataacacctcaggcatcaaccactgaagccatcttgcctgaatatggaacccttgggctagaatgctcaccacggacaggtttggacttcaatgaaatgatcttgctaacaatgaagaacaaagcatggatggtacatagacaatggttttttgacctacctctaccatggacatcaggagctacaacggaaacaccaacctggaacaggaaggagcttcttgtgacatttaaaaatgcacatgcgaaaaaacaagaagtagttgtccttggatcgcaagagggagcaatgcataccgcattgacaggagccacagaaatccaaaactcaggaggcacaagcatttttgcggggcacttaaaatgtagacttaagatggacaaattagaactcaaggggatgagctatgcaatgtgcacgaatacctttgtgttgaagaaagaagtctcagaaacgcagcatgggacaatactcatcaaggtcgagtacaaaggggaagatgcaccttgcaagattcctttctccacagaggatgaacaagggaaagctcacaatggcagactgattacagccaacccagtggtgactaagaaggaggagcctgtcaatattgaggctgaacctccttttggggaaagtaatatagtcattggaattggagacaacgccttgaaaatcaattggtacaagaagggaagctctattgggaagatgttcgaggccactgctagaggtgcaaggcgcatggccatcttgggagacacagcttgggactttggatcagtgggtggtgttctgaactcattaggcaaaatggtgcaccaaatattcggaagtgcttacacagccctattcagtggggtctcttgggtaatgaaaattggaataggagttctcttgacttggatagggttgaattcaaaaaacacatccatgtcattttcatgcattgcgataggaatcattacactctatctgggagctgtagtgcaagct----------------------------------
+
+    </sequence>
+    
+    <sequence>
+    <taxon idref="JX070120_2010"/>
+    -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------tggccagatggggaaccttcaagaagtcgggggccattaaggtcctgaaaggcttcaagaaggagatttcaaacatgttgagcataatcaacaaacggaaaaagacatcgctctgtctcatgatgatattgccagcagcacttgctttccacttgacttcacgagatggagagccgcgcatgattgtggggaagaatgaaagaggaaagtccctactttttaagacagcctctggaatcaacatgtgcacactcatagccatggacttgggagagatgtgtgatgacacggtcacttacaaatgcccccacattaccgaagtggaacctgaagacattgactgctggtgcaaccttacatcaacatgggtgacttatggaacgtgtaatcaagctggagagcatagacgcgacaagagatcagtggcgttagcaccccatgtcggcatgggactggacacacgcacccaaacctggatgtcggctgaaggagcttggagacaagtcgagaaggtagagacatgggcccttaggcacccagggttcaccatactagccctatttcttgcccattacataggcacttccttgacccagaaggtggttatttttatactactaatgctggtcaccccatccatgacaatgagatgtgtgggagtgggaaacagagattttgtggaaggtctgtcaggagctacgtgggttgacgtggtgctagagcacggggggtgtgtgaccaccatggctaagaacaagcccacgctggatatagagcttcagaagaccgaggccacccaactggcgaccctaaggaagctatgcattgaggggaaaattaccaacataacgactgactcaagatgtcccacccaaggggaagcggttttgcctgaggagcaggaccagaactacgtgtgtaagcatacatacgtagacagaggctgggggaacggttgtggtttgtttggcaagggaagcttggtaacatgtgcgaaatttcaatgcctggaaccgatagagggaaaagtggtgcaatatgagaacctcaaatacaccgtcatcattacagtgcacacaggagaccaacaccaggtgggaaatgaaacgcagggagtcacggctgagataacgcctcaggcatcaaccactgaagccatcttgcctgaatatggaacccttgggctagaatgctcaccacggacaggtttggacttcaatgaaatgatcttactaacaatgaagaacaaagcatggatggtacatagacaatggttctttgacctacctctaccatggacatcaggagctacaacagaaacaccaacttggaacaggaaggagctccttgtgacattcaaaaatgcacatgcgaaaaaacaagaagtagttgtccttggatcgcaagagggagcaatgcataccgcactgacaggagccacagaaatccaaaactcaggaggcacaagcatttttgcggggcacttaaagtgtagacttaagatggacaaattggaactcaaggggatgagctatgcaatgtgcacgaatacctttgtgttgaagaaagaagtctcagaaacgcagcatgggacaatactcattaaggttgagtacaaaggggaagatgcaccttgcaagattcctttctccacagaggatggacaggggaaagctcacaatggcagactgatcacagccaacccagtggtgactaagaaggaggagcctgttaacattg---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+    </sequence>
+    
+    <sequence>
+    <taxon idref="FJ375134_2004"/>
+    -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ttccacttgacttcacgagatggagagccgcgcatgattgtggggaagaatgaaagaggaaaatccctactttttaagacagcctctgggaacaacatgtgcacactcatagccatggacttgggagagatgtgtgatgacacggtcacttacaaatgcccccacattaccgaagtggaacctgaagacattgactgctggtgcaaccttacatcaacatgggtgacttacggaacgtgcaatcaagccggagagcgtagacgcgacaagagatcagtggcgttggctccccatgtcggcatgggactagacacacgcacccaaacctggatgtcggctgaaggagcttggaggcaagtcgagaaggtagagacatgggcccttaggcacccagggttcaccatactagccctatttcttgcccattacataggcacatccttgacccagaaggtggttatttttatactactaatgctggtcaccccatccatgacaatgagatgtgtgggagtaggaaacagagattttgtggaaggtctatcaggagctacgtgggttgacgtggtgctcgagcacggggggtgtgtgactaccatggctaagaacaagccaacgttggatatagagcttcagaagaccgaggccacccaattggcgaccctaaggaagctatgcattgaggggaaaattaccaacataacaactgactcaagatgtcctacccaaggggaagcggttttgcctgaggagcaggaccagaactacgtgtgtaagcatacatacgtagacaggggctgggggaacggatgtggtttgtttggcaagggaagcttggtaacatgtgcgaaatttcaatgcctggaaccaatagagggaaaagtggtgcagtatgagaacctcaaatacaccgtcatcatcacagtgcacacaggagatcaacaccaggtgggaaatgaaacgcagggagtcacagctgagataacacctcaggcatcaaccactgaagccatcttgcctgaatatggaacccttgggctagaatgctcaccacggacaggtttggatttcaatgaaatgatcttgctaacaatgaagaacaaagcatggatggtacatagacaatggttttttgacctacctctaccatggacatcaggagctacaacggaaacaccaacctggaacaggaaggagcttcttgtgacatttaaaaacgcacatgcgaagaaacaagaagtagttgtccttggatcgcaagagggagcaatgcataccgcattgacaggagccacagaaatccaaaactcaggaggcacaagtatttttgcggggcatttaaaatgtagacttaagatggacaaattggaactcaaggggatgagctatgcaatgtgcacgaatacctttgtgttgaagaaagaagtctcagaaacgcagcatgggacaatactcattaaggtcgagtacaaaggggaagatgcaccttgtaagattcctttctccacagaggatggacaagggaaagctcacaatggcagactgattacagccaacccagtggtgactaagaaggaggagcctgtcaatattgaggctgaacctccttttggggaaagtaatatagtgattggaactggagacaaagccctgaaaatcaactggtacaggaagggaagctctattgggaagatgttcgaggccactgccagaggtgcaaggcgcatggccatcttgggagacacagcttgggactttggatcagtgggtggtgttctgaactcattaggcaaaatggtgcaccaaatattcggaagtgcttacacagccctattcagtggagtctcttgggtaatgaaaatcggaataggagttctcttgacttggataggattgaattcaaaaaacacatccatgtcattttcatgcattgcgataggaatcattacgctctatctgggagctgtggtgcaagct----------------------------------
+
+    </sequence>
+    
+    <sequence>
+    <taxon idref="JX070126_2010"/>
+    -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------tggccagatggggaaccttcaagaagtcgggggccattaaggtcctgaaaggcttcaagaaggagatttcaaacatgttgagcataatcaacaaacggaaaaagacatcgctctgtctcatgatgatattgccagcagcacttgctttccatttgacttcacgagatggagagccgcgcatgattgtggggaagaatgaaagaggaaagtccctactttttaagacagcctctggaatcaacatgtgcacactcatagccatggacttgggagagatgtgtgatgacacggtcacttacaaatgcccccacattaccgaagtggaacctgaagacattgactgctggtgcaaccttacatcaacatgggtgacttatggaacgtgtaatcaagctggagagcatagacgcgacaagagatcagtggcgttagctccccatgtcggcatgggactggacacacgcacccaaacctggatgtcggctgaaggagcttggagacaagtcgagaaggtagagacatgggcccttaggcacccagggttcaccatactagccctatttcttgctcattacataggcacttccttgacccagaaggtggttatttttatactactaatgctggtcaccccatccatgacaatgagatgtgtgggagtgggaaacagagattttgtggaaggtctgtcaggagctacgtgggttgacgtggtgctagagcacggggggtgtgtgaccaccatggctaagaacaagcccacgctggatatagagcttcagaagaccgaggccacccaactggcgaccctaaggttgctatgcattgaggggaaaattaccaacataacgactgactcaagatgtcccacccaaggggaagcggttttgcctgaggagcaggaccagaactacgtgtgtaagcatacatacgtagacagaggctgggggaacggttgtggtttgtttggcaagggaagcttggtaacatgtgcgaaatttcaatgcctggaaccgatagagggaaaagtggtgcaatatgagaacctcaaatacaccgtcatcattacagtgcacacaggagaccaacaccaggtgggaaatgaaacgcagggagtcacggctgagataacgcctcaggcatcaaccactgaagccatcttgcctgaatatggaacccttgggctagaatgctcaccacggacaggtttggacttcaatgaaatgatcttactaacaatgaagaacaaagcatggatggtacatagacaatggttctttgacctacctctaccatggacatcaggagctacaacagaaacaccaacttggaacaggaaggagctccttgtgacattcaaaaatgcacatgcgaaaaaacaagaagtagttgtccttggatcgcaagagggagcaatgcataccgcactgacaggagccacagaaatccaaaactcaggaggcacaagcatttttgcggggcacttaaagtgtagacttaagatggacaaattggaactcaaggggatgagctatgcaatgtgcacgaatacctttgtgttgaagaaagaagtctcagaaacgcagcatgggacaatactcattaaggttgagtacaaaggggaagatgcaccttgcaagattcctttctccacagaggatggacaggggaaagctcacaatggcagactgatcacagccaacccagtggtgactaagaaggaggagcctgttaacattg---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+    </sequence>
+    
+    <sequence>
+    <taxon idref="FJ389911_2003"/>
+    ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------tcagtggcgttagctccccatgtcggcatgggactagacacacgcacccaaacctggatgtcggctgaaggagcttggaggcaagtcgagaaggtagagacatgggcccttaggcacccagggttcaccatactagccctatttcttgcccattacataggcacatccttgacccagaaggtggttatttttatactactaatgctggtcaccccatccatgacaatgagatgtgtgggagtaggaaacagagattttgtggaaggtctatcaggagctacgtgggttgacgtggtgctcgagcacggggggtgtgtgactaccatggctaagaacaagccaacgttggatatagagcttcagaagaccgaggccacccaattggcgaccctaaggaagctatgcattgaggggaaaattaccaacataacaactgactcaagatgccctacccaaggggaagcggctttgcctgaggagcaggaccagaactacgtgtgtaagcatacatacgtagacagaggctgggggaacggatgtggtttgtttggcaagggaagcttggtaacatgtgcgaaatttcaatgcctggaaccaatagagggaaaagtggtgcaatatgagaacctcaaatacaccgtcatcatcacagtgcacacaggagatcaacaccaggtgggaaatgaaacgcagggagtcacggctgagataacacctcaggcatcaaccactgaagccatcttgcctgaatatggaacccttgggctagaatgctcaccacggacaggtttggatttcaatgaaatgatcttgctaacaatgaagaacaaagcatggatggtacatagacaatggttttttgacctacctctaccatggacatcaggagctacaacggaaacaccaacctggaacaggaaggagcttcttgtgacattcaaaaacgcacatgcgaagaaacaagaagtagttgtccttggatcgcaagagggagcaatgcataccgcattgacaggagccacagaaatccaaaactcaggaggcacaagtatttttgcggggcacttaaaatgcagacttaagatggacaaattggaactcaaggggatgagctatgcaatgtgcacgaatacctttgtgttgaagaaagaagtctcagaaacgcagcatgggacaatactcattaaggtcgagtacaaaggggaagatgtaccttgcaagattcctttctccacagaggatggacaagggaaagctcacaatggcagactgattacagccaacccagtggtgactaagaaggaggagcctgtcaatattgaggctgaacctccttttggggaaagcaatatagtgattggaattggagacaacgccttgaaaatcaactggtataagaagggaagctctattgggaagatgttcgaggccactgccagaggtgcaaggcgcatggccatcttgggagacacagcttgggactttggatcagtgggtggtgttctgaactcattaggcaaaatggtgcaccaaatattcggaagtgcttacacagccctattcagtggagtctcttgggtaatgaaaattggaataggagttctcttgacttggatagggttgaattcaaaaaacacatccatgtcattttcatgcattgcgataggaatcattacactctatctgggagctgtggtgcaagct----------------------------------
+
+    </sequence>
+    
+    <sequence>
+    <taxon idref="GQ330473_2009"/>
+    -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------atgagatgtgtgggagtgggaaacagagattttgtggaaggtctatcaggagctacgtgggttgacgtggtgctcgagcacggggggtgtgtgactaccatggctaagaacaagccaacgttggatatagagcttcagaagactgaggccacccaattggcgaccctaaggaagctatgcattgaggggaaaattaccaacataacaactgactcaagatgtcccacccaaggggaagcggttttgcctgaggagcaggaccagaactacgtgtgtaagcatacatacgtagacagaggctgggggaacggatgtggtttgtttggcaagggaagcttggtaacatgtgcgaaatttcaatgcctggaactaatagagggaaaagtggtgcagtatgagaacctcaaatacaccgtcatcatcactgtgcacacaggagatcaacaccaggtgggaaatgaaacgcagggagtcacggctgagataacacctcaggcatcaaccactgaagccatcttgcctgaatatggaacccttgggctagaatgctcaccacggacaggtttggatttcaatgaaatgatcttgctaacaatgaagaacaaagcatggatggtacatagacaatggttttttgacctacctctaccatggacatcaggagctacaacggaaacaccaacctggaacaggaaggagcttcttgtgacatttaaaaacgcacatgcgaagaaacaagaagtagttgtccttggatcgcaagagggagcaatgcataccgcattgacaggagccacagaaatccaaaactcaggaggcacaagtatttttgcggggcatttaaaatgtagacttaagatggacaaattggaactcaaagggatgagctatgcaatgtgcacgaatacctttgtgttgaagaaagaagtctcagaaacgcagcatgggacaatactcatcaaggtcgagtacaaaggggaagatgcaccttgcaagattcctttctccacagaggatggacaagggaaagctcacaatggcagactgattacagccaacccagtggtgactaagaaggaggagcctgtcaatattgaggctgaacctccttttggggaaagtaatatagtgattggaactggagacaacgctttgaaaatcaactggtataagaaaggaagctctattgggaagatgttcgaggccactgccagaggtgcaaggcgcatggccatcttgggagacacagcttgggactttggatcagtgggtggtgttctgaactcattaggtaaaatggtgcaccaaatatttggaagtgcttacacagccctattcagtggagtctcttgggtaatgaaaatcggaataggagttctcttgacttggatagggttgaattcaaaaaacacatccatgtcattttcatgcattgcgataggaatcatcacactctatctaggagccgtggtgcaagct----------------------------------
+
+    </sequence>
+    
+    <sequence>
+    <taxon idref="JX070133_2011"/>
+    -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------tggctagatggggaaccttcaagaagtcgggggccattaaggtcttgaaaggcttcaagaaggagatctcaaacatgctgagcataatcaacaaacggaaaaagacatcactctgtctcatgatgatattgccagcagcacttgctttccacttgacttcacgagatggagagccgcgcatgattgtggggaagaatgaaagaggaaaatccctactttttaagacagcctctggaattaacatgtgcacactcatagccatggatttgggagagatgtgtgatgacacggtcacttacaaatgcccccacattaccgaagtggaacctgaagacattgactgctggtgcaaccttacatcaacatgggtgacttatggaacgtgcaatcaagctggagagcatagacgcgacaagagatcagtggcgttagctccccatgtcggcatgggattggacacacgcacccaaacctggatgtcggctgaaggagcttggagacaagtcgagaaggtagagacatgggcccttaggcacccagggtttaccatactagccctatttctcgcccattacataggcacttccttgacccagaaggtggttattttcatattattaatgttggtcaccccatccatgacaatgagatgtgtgggagtaggaaacagagattttgtggaagggctatcaggagctacgtgggttgacgtggtgctcgagcacggggggtgtgtgactaccatggctaagaacaagcccacgctggatatagagcttcagaagaccgaggccacccaactggcgaccctaagaaagctatgcattgaggggaaaattaccaacataacaactgactcaagatgtcccacccaaggggaagcggttttgcctgaggagcaggaccagaactacgtgtgtaagcacacatacgtggacagaggctgggggaacggttgtggtttgtttggcaaaggaagcttggtaacatgtgcgaaatttcaatgcctggaaccaatagagggaaaagtggtgcaatatgagaacctcaaatacaccgttatcattacagtgcacacaggagaccaacaccaggtgggaaatgaaacgcagggagtcacggctgagataacacctcaggcatcaaccactgaagccatcttgcctgaatatggaacccttgggctagaatgctcaccacggacaggtttggatttcaatgaaatgatcttactaacaatgaagaacaaagcatggatggtacacagacaatggttctttgacctacctctaccatgggcatcaggagcaacaacagaaacaccaacctggaacaggaaggagcttcttgtgacattcaagaacgcacatgcgaaaaaacaagaagtagttgttcttggatcgcaagagggagcaatgcataccgcactgacgggagctacagaaatccaaaactcaggaggcacaagcattttcgcggggcacttaaaatgtagacttaagatggacaaattggaactcaaggggatgagctatgcaatgtgcacgaataccttcgtgttgaaaaaagaggtctcagaaacgcagcacgggacaatactcattaaggttgagtacaaaggggaagatgcaccttgcaagattcccttttccacagaggatggacaagggaaagctcacaatggcagactgatcacagccaaccctgtggtgactaagaaggaggagcccgtcaatattg---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+    </sequence>
+    
+</alignment>
+
+	<patterns id="patterns" from="1" strip="false">
+		<alignment idref="alignment"/>
+	</patterns>
+
+	<!-- A prior assumption that the population size has remained constant       -->
+	<!-- throughout the time spanned by the genealogy.                           -->
+	<constantSize id="constant" units="years">
+		<populationSize>
+			<parameter id="constant.popSize" value="150.0" lower="0.0"/>
+		</populationSize>
+	</constantSize>
+
+	<!-- Generate a random starting tree under the coalescent process            -->
+	<coalescentSimulator id="startingTree">
+		<taxa idref="taxa"/>
+		<constantSize idref="constant"/>
+	</coalescentSimulator>
+
+	<!-- Generate a tree model                                                   -->
+	<treeModel id="treeModel">
+		<coalescentTree idref="startingTree"/>
+		<rootHeight>
+			<parameter id="treeModel.rootHeight"/>
+		</rootHeight>
+		<nodeHeights internalNodes="true">
+			<parameter id="treeModel.internalNodeHeights"/>
+		</nodeHeights>
+		<nodeHeights internalNodes="true" rootNode="true">
+			<parameter id="treeModel.allInternalNodeHeights"/>
+		</nodeHeights>
+	</treeModel>
+
+	<!-- Generate a coalescent likelihood                                        -->
+	<coalescentLikelihood id="coalescent">
+		<model>
+			<constantSize idref="constant"/>
+		</model>
+		<populationTree>
+			<treeModel idref="treeModel"/>
+		</populationTree>
+	</coalescentLikelihood>
+
+	<!-- The uncorrelated relaxed clock (Drummond, Ho, Phillips & Rambaut (2006) PLoS Biology 4, e88 )-->
+	<discretizedBranchRates id="branchRates">
+		<treeModel idref="treeModel"/>
+		<distribution>
+			<logNormalDistributionModel meanInRealSpace="true">
+				<mean>
+					<parameter id="ucld.mean" value="0.05" lower="0.0"/>
+				</mean>
+				<stdev>
+					<parameter id="ucld.stdev" value="0.3333333333333333" lower="0.0"/>
+				</stdev>
+			</logNormalDistributionModel>
+		</distribution>
+		<rateCategories>
+			<parameter id="branchRates.categories"/>
+		</rateCategories>
+	</discretizedBranchRates>
+	<rateStatistic id="meanRate" name="meanRate" mode="mean" internal="true" external="true">
+		<treeModel idref="treeModel"/>
+		<discretizedBranchRates idref="branchRates"/>
+	</rateStatistic>
+	<rateStatistic id="coefficientOfVariation" name="coefficientOfVariation" mode="coefficientOfVariation" internal="true" external="true">
+		<treeModel idref="treeModel"/>
+		<discretizedBranchRates idref="branchRates"/>
+	</rateStatistic>
+	<rateCovarianceStatistic id="covariance" name="covariance">
+		<treeModel idref="treeModel"/>
+		<discretizedBranchRates idref="branchRates"/>
+	</rateCovarianceStatistic>
+
+	<!-- The general time reversible (GTR) substitution model                    -->
+	<gtrModel id="gtr">
+		<frequencies>
+			<frequencyModel dataType="nucleotide">
+				<frequencies>
+					<parameter id="frequencies" value="0.25 0.25 0.25 0.25"/>
+				</frequencies>
+			</frequencyModel>
+		</frequencies>
+		<rateAC>
+			<parameter id="ac" value="1.0" lower="0.0"/>
+		</rateAC>
+		<rateAG>
+			<parameter id="ag" value="1.0" lower="0.0"/>
+		</rateAG>
+		<rateAT>
+			<parameter id="at" value="1.0" lower="0.0"/>
+		</rateAT>
+		<rateCG>
+			<parameter id="cg" value="1.0" lower="0.0"/>
+		</rateCG>
+		<rateGT>
+			<parameter id="gt" value="1.0" lower="0.0"/>
+		</rateGT>
+	</gtrModel>
+
+	<!-- site model                                                              -->
+	<siteModel id="siteModel">
+		<substitutionModel>
+			<gtrModel idref="gtr"/>
+		</substitutionModel>
+		<gammaShape gammaCategories="4">
+			<parameter id="alpha" value="0.5" lower="0.0"/>
+		</gammaShape>
+	</siteModel>
+
+	<!-- Likelihood for tree given sequence data                                 -->
+	<treeLikelihood id="treeLikelihood" useAmbiguities="false">
+		<patterns idref="patterns"/>
+		<treeModel idref="treeModel"/>
+		<siteModel idref="siteModel"/>
+		<discretizedBranchRates idref="branchRates"/>
+	</treeLikelihood>
+
+	<!-- Define operators                                                        -->
+	<operators id="operators" optimizationSchedule="default">
+		<scaleOperator scaleFactor="0.75" weight="0.1">
+			<parameter idref="ac"/>
+		</scaleOperator>
+		<scaleOperator scaleFactor="0.75" weight="0.1">
+			<parameter idref="ag"/>
+		</scaleOperator>
+		<scaleOperator scaleFactor="0.75" weight="0.1">
+			<parameter idref="at"/>
+		</scaleOperator>
+		<scaleOperator scaleFactor="0.75" weight="0.1">
+			<parameter idref="cg"/>
+		</scaleOperator>
+		<scaleOperator scaleFactor="0.75" weight="0.1">
+			<parameter idref="gt"/>
+		</scaleOperator>
+		<deltaExchange delta="0.01" weight="0.1">
+			<parameter idref="frequencies"/>
+		</deltaExchange>
+		<scaleOperator scaleFactor="0.75" weight="0.1">
+			<parameter idref="alpha"/>
+		</scaleOperator>
+		<scaleOperator scaleFactor="0.75" weight="3">
+			<parameter idref="ucld.mean"/>
+		</scaleOperator>
+		<scaleOperator scaleFactor="0.75" weight="3">
+			<parameter idref="ucld.stdev"/>
+		</scaleOperator>
+		<subtreeSlide size="15.0" gaussian="true" weight="15">
+			<treeModel idref="treeModel"/>
+		</subtreeSlide>
+		<narrowExchange weight="15">
+			<treeModel idref="treeModel"/>
+		</narrowExchange>
+		<wideExchange weight="3">
+			<treeModel idref="treeModel"/>
+		</wideExchange>
+		<wilsonBalding weight="3">
+			<treeModel idref="treeModel"/>
+		</wilsonBalding>
+		<scaleOperator scaleFactor="0.75" weight="3">
+			<parameter idref="treeModel.rootHeight"/>
+		</scaleOperator>
+		<uniformOperator weight="30">
+			<parameter idref="treeModel.internalNodeHeights"/>
+		</uniformOperator>
+		<scaleOperator scaleFactor="0.75" weight="3">
+			<parameter idref="constant.popSize"/>
+		</scaleOperator>
+		<upDownOperator scaleFactor="0.75" weight="3">
+			<up>
+				<parameter idref="ucld.mean"/>
+			</up>
+			<down>
+				<parameter idref="treeModel.allInternalNodeHeights"/>
+			</down>
+		</upDownOperator>
+		<swapOperator size="1" weight="10" autoOptimize="false">
+			<parameter idref="branchRates.categories"/>
+		</swapOperator>
+		<uniformIntegerOperator weight="10">
+			<parameter idref="branchRates.categories"/>
+		</uniformIntegerOperator>
+	</operators>
+
+	<!-- Define MCMC                                                             -->
+	<mcmc id="mcmc" chainLength="100000000" autoOptimize="true">
+		<posterior id="posterior">
+			<prior id="prior">
+				<gammaPrior shape="0.05" scale="10.0" offset="0.0">
+					<parameter idref="ac"/>
+				</gammaPrior>
+				<gammaPrior shape="0.05" scale="20.0" offset="0.0">
+					<parameter idref="ag"/>
+				</gammaPrior>
+				<gammaPrior shape="0.05" scale="10.0" offset="0.0">
+					<parameter idref="at"/>
+				</gammaPrior>
+				<gammaPrior shape="0.05" scale="10.0" offset="0.0">
+					<parameter idref="cg"/>
+				</gammaPrior>
+				<gammaPrior shape="0.05" scale="10.0" offset="0.0">
+					<parameter idref="gt"/>
+				</gammaPrior>
+				<uniformPrior lower="0.0" upper="1.0">
+					<parameter idref="frequencies"/>
+				</uniformPrior>
+				<exponentialPrior mean="0.5" offset="0.0">
+					<parameter idref="alpha"/>
+				</exponentialPrior>
+				<exponentialPrior mean="0.3333333333333333" offset="0.0">
+					<parameter idref="ucld.stdev"/>
+				</exponentialPrior>
+				<uniformPrior lower="0.0" upper="10.0">
+					<parameter idref="ucld.mean"/>
+				</uniformPrior>
+				<oneOnXPrior>
+					<parameter idref="constant.popSize"/>
+				</oneOnXPrior>
+				<coalescentLikelihood idref="coalescent"/>
+			</prior>
+			<likelihood id="likelihood">
+				<treeLikelihood idref="treeLikelihood"/>
+			</likelihood>
+		</posterior>
+		<operators idref="operators"/>
+
+		<!-- write log to screen                                                     -->
+		<log id="screenLog" logEvery="5000">
+			<column label="Posterior" dp="4" width="12">
+				<posterior idref="posterior"/>
+			</column>
+			<column label="Prior" dp="4" width="12">
+				<prior idref="prior"/>
+			</column>
+			<column label="Likelihood" dp="4" width="12">
+				<likelihood idref="likelihood"/>
+			</column>
+			<column label="rootHeight" sf="6" width="12">
+				<parameter idref="treeModel.rootHeight"/>
+			</column>
+			<column label="ucld.mean" sf="6" width="12">
+				<parameter idref="ucld.mean"/>
+			</column>
+		</log>
+
+		<!-- write log to file                                                       -->
+		<log id="fileLog" logEvery="5000" fileName="rand_DeV3_N41.xml1.log" overwrite="false">
+			<posterior idref="posterior"/>
+			<prior idref="prior"/>
+			<likelihood idref="likelihood"/>
+			<parameter idref="treeModel.rootHeight"/>
+			<parameter idref="constant.popSize"/>
+			<parameter idref="ac"/>
+			<parameter idref="ag"/>
+			<parameter idref="at"/>
+			<parameter idref="cg"/>
+			<parameter idref="gt"/>
+			<parameter idref="frequencies"/>
+			<parameter idref="alpha"/>
+			<parameter idref="ucld.mean"/>
+			<parameter idref="ucld.stdev"/>
+			<rateStatistic idref="meanRate"/>
+			<rateStatistic idref="coefficientOfVariation"/>
+			<rateCovarianceStatistic idref="covariance"/>
+			<treeLikelihood idref="treeLikelihood"/>
+			<coalescentLikelihood idref="coalescent"/>
+		</log>
+
+		<!-- write tree log to file                                                  -->
+		<logTree id="treeFileLog" logEvery="5000" nexusFormat="true" fileName="rand_DeV3_N41.xml1.trees" sortTranslationTable="true">
+			<treeModel idref="treeModel"/>
+			<trait name="rate" tag="rate">
+				<discretizedBranchRates idref="branchRates"/>
+			</trait>
+			<posterior idref="posterior"/>
+		</logTree>
+	</mcmc>
+
+	<!-- START Marginal Likelihood Estimator                                     -->
+
+	<!-- Define marginal likelihood estimator settings                           -->
+<!--- DISABLED MARGINAL LIKELIHOOD CALCULATION 
+	<marginalLikelihoodEstimator chainLength="10000000" pathSteps="100" pathScheme="betaquantile" alpha="0.3">
+		<samplers>
+			<mcmc idref="mcmc"/>
+		</samplers>
+		<pathLikelihood id="pathLikelihood">
+			<source>
+				<posterior idref="posterior"/>
+			</source>
+			<destination>
+				<prior idref="prior"/>
+			</destination>
+		</pathLikelihood>
+		<log id="MLELog" logEvery="1000" fileName="rand_DeV3_N41.xml1.log">
+			<pathLikelihood idref="pathLikelihood"/>
+		</log>
+	</marginalLikelihoodEstimator>
+
+	<pathSamplingAnalysis fileName="rand_DeV3_N41.xml1.log">
+		<likelihoodColumn name="pathLikelihood.delta"/>
+		<thetaColumn name="pathLikelihood.theta"/>
+	</pathSamplingAnalysis>
+
+	<steppingStoneSamplingAnalysis fileName="rand_DeV3_N41.xml1.log">
+		<likelihoodColumn name="pathLikelihood.delta"/>
+		<thetaColumn name="pathLikelihood.theta"/>
+	</steppingStoneSamplingAnalysis>
+-->
+	<!-- END Marginal Likelihood Estimator                                       -->
+
+	<report>
+		<property name="timer">
+			<mcmc idref="mcmc"/>
+		</property>
+	</report>
+</beast>
